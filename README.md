@@ -1,4 +1,4 @@
-# Hi there 👋
+# Die Antwoord 👋
 
 - 🔭 I’m currently working on [Discord](https://dsc.gg/dso)
 - 🌱 I’m currently learning ...
