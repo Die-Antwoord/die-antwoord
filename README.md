@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Die-Antwoord/die-antwoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Discord](https://dsc.gg/dso)
@@ -13,3 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**Die-Antwoord/die-antwoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
