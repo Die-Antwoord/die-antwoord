@@ -1,4 +1,7 @@
 # Die Antwoord 👋
+=================
+
+![](https://komarev.com/ghpvc/?username=Die-Antwoord)
 
 - 🔭 I’m currently working on ... improving my skills set.
 - 🌱 I’m currently learning ... all kinds of new new things since i started learning coding.
