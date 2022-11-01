@@ -21,7 +21,6 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 
 ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 ### Socials
@@ -32,7 +31,7 @@ src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-
 src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
-
+  ```
 - ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛⬛⬛⬛⬛⬛⬛⬛⬛
 - ⬛⬛⬛⬛⬛⬜⬜⬜⬛⬜⬛⬜⬛⬜⬜⬜⬛
 - ⬛🟩🟩🟩⬛⬜⬛⬛⬛⬜⬛⬜⬛⬜⬛⬛⬛
@@ -46,7 +45,7 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 - ⬛⬛🟥🟥🟥⬛⬛🟨🟨🟨⬛⬛🟪🟪🟪⬛⬛
 - ⬛⬛🟥⬛🟥⬛⬛🟨⬛🟨⬛⬛🟪⬛🟪⬛⬛
 - ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-  
+ ``` 
 ︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
   
   <!--
