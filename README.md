@@ -1,7 +1,7 @@
 # Die Antwoord 👋 [<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
-  ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
-![](https://komarev.com/ghpvc/?username=Die-Antwoord)
+  ![](https://komarev.com/ghpvc/?username=Die-Antwoord)
 
 - 🔭 I’m currently working on  ➔ Improving my skills set.
 - 🎓 I’m currently learning  ➔ All kinds of new new things since i started learning coding.
@@ -11,7 +11,7 @@
 - 📫 How to reach me:  ➔ [Discord](https://dsc.gg/dso)
 - 🏄‍♂️ Fun fact:  ➔ The Earth is Flat.
 
-  ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
 ### Skills
 
@@ -23,16 +23,16 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 
-  ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 ### Socials
 
 <a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-  ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
-```
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
+
 ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ⬛⬛⬛⬛⬛⬜⬜⬜⬛⬜⬛⬜⬛⬜⬜⬜⬛
 ⬛🟩🟩🟩⬛⬜⬛⬛⬛⬜⬛⬜⬛⬜⬛⬛⬛
@@ -46,7 +46,8 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 ⬛⬛🟥🟥🟥⬛⬛🟨🟨🟨⬛⬛🟪🟪🟪⬛⬛
 ⬛⬛🟥⬛🟥⬛⬛🟨⬛🟨⬛⬛🟪⬛🟪⬛⬛
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-```
+
+︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
   
   <!--
 **Die-Antwoord/die-antwoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
