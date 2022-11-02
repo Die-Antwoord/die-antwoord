@@ -42,7 +42,7 @@ My Background and experties
 ⦁ Virtualized Server (VMware, HyperV) ⦁ Microsoft Office Full package 
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
-
+![](https://komarev.com/ghpvc/?username=Die-Antwoord)
 * 🌍  I'm based in 0.0.0.0/0
 * 🧠  I'm learning Python and JS
 * 🤝  I'm open to collaborating on anything related to 0 & 1
