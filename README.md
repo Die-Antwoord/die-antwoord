@@ -8,7 +8,7 @@
 
 ＊ 　 ｡*　　+　 　＊ 　･ ͙　☆　　　*　　　* 　 。
 
-- 🔭 I’m currently working on  ➔ Improving my skills set.
+- 🔭 I’m currently working on  ➔ Expanding my skills set.
 - 🎓 I’m currently learning  ➔ All kinds of new new things since i started learning coding.
 - 🎸 I’m looking to collaborate on  ➔ anything worth my time.
 - 💻 I’m looking for help with  ➔ Python
