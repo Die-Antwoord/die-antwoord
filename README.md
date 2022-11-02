@@ -1,4 +1,4 @@
-# Die Antwoord 👋 [<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+# Die Antwoord 👋 [<img src="https://open.autocode.com/static/images/open.svg?" width="192">]([https://open.autocode.com/](https://autocode.com/dieantwoord/))
 
 ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
