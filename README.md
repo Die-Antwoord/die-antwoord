@@ -44,6 +44,8 @@ My Background and experties
 ```
 ![](https://komarev.com/ghpvc/?username=Die-Antwoord)
 * 🌍  I'm based in 0.0.0.0/0
+* ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
+* 🚀  I'm currently working on [Pandora](http://pandora.xyz)
 * 🧠  I'm learning Python and JS
 * 🤝  I'm open to collaborating on anything related to 0 & 1
 * ⚡  I like to go Fishing
