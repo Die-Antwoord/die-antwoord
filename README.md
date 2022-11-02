@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Die Antwoord
+Hi ![](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)My name is Die Antwoord
 ====================================================================================================================================
 
 Server / Network Administrator
