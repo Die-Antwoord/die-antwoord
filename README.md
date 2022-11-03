@@ -30,16 +30,18 @@ My Background and experties
 
 ```properties
 ⦁ SQL Server Databases 
-⦁ Active Directory Domain Server Infrastructure ⦁ Microsoft Exchange Server 
+⦁ Active Directory Domain Server Infrastructure 
+⦁ Microsoft Exchange Server 
 ⦁ Microsoft SQL 
+⦁ Virtualized Server (VMware, HyperV) 
 ⦁ Microsoft HyperV Cluster Server 
 ⦁ Windows Update Server 
 ⦁ Windows Desktop Application (Deplotment, Backups) 
 ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
 ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
-⦁ DNS, IIS and 3de party hosted services ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
-⦁ Backups tapes, drives and online storage ⦁ All Desktop Computer Hardware 
-⦁ Virtualized Server (VMware, HyperV) ⦁ Microsoft Office Full package 
+⦁ DNS, IIS and 3de party hosted services 
+⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
+⦁ Backups tapes, drives and online storage 
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
 ![](https://komarev.com/ghpvc/?username=Die-Antwoord)
