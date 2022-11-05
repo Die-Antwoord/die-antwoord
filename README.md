@@ -1,11 +1,13 @@
-![](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
+![Banner1](https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png)
+
+![Banner2](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
 
 Die Antwoord
 ====================================================================================================================================
 
-![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
-![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
-![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
+[Die-Antwoord](https://github.com/Die-Antwoord)![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
+[Zef-Side](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
+[Love-Society](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
 
 # My Background and experties
 ------------------------------
@@ -51,7 +53,6 @@ Die Antwoord
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
 
-
 * 🌍  I'm based in 0.0.0.0/0
 * ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
 * 🚀  I'm currently working on [Pandora](http://pandora.xyz)
@@ -59,12 +60,6 @@ Die Antwoord
 * 🤝  I'm open to collaborating on anything related to 0 & 1
 * ⚡  I like to go Fishing
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
-
-<a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 <p align="left">
@@ -97,7 +92,15 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=f
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Die-Antwoord"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Die-Antwoord's GitHub stats" /></a>
-![Banner](https://cdn.discordapp.com/attachments/933744130289463386/933941326477668372/tumblr_nku1ycXzKS1rm2da9o4_500.gif)
+<a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+<a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+![Footer](https://cdn.discordapp.com/attachments/933744130289463386/1038580730797756436/1T.png)
 
 
 <!--
