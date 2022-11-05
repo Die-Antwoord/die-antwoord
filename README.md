@@ -92,6 +92,7 @@ Die Antwoord
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Die-Antwoord"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Die-Antwoord's GitHub stats" /></a>
+
 <a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
