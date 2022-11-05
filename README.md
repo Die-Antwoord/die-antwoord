@@ -20,7 +20,7 @@ Die Antwoord
 
 ## Qualification and Achievements 
 
-```properties
+```ini
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
 ⦁ +A 220-602 (IT Technician) Exam No 220-602 
 ⦁ +N (Networking) 
