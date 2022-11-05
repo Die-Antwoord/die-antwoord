@@ -1,7 +1,7 @@
 ![Banner1](https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png)
-
+<!--
 ![Banner2](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
-
+-->
 Die Antwoord
 ====================================================================================================================================
 
