@@ -1,6 +1,6 @@
 ![](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)My name is Die Antwoord
 ====================================================================================================================================
-
+![](https://komarev.com/ghpvc/?username=Die-Antwoord)
 My Background and experties
 ------------------------------
 
@@ -26,7 +26,7 @@ My Background and experties
 
 ## Responsibilities and Duties 
 
-- Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
+### Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
 
 ```properties
 ⦁ SQL Server Databases 
@@ -44,7 +44,8 @@ My Background and experties
 ⦁ Backups tapes, drives and online storage 
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
-![](https://komarev.com/ghpvc/?username=Die-Antwoord)
+
+
 * 🌍  I'm based in 0.0.0.0/0
 * ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
 * 🚀  I'm currently working on [Pandora](http://pandora.xyz)
@@ -75,13 +76,23 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=f
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 ### Socials
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
+<p align="left">
+<a href="https://www.codepen.io/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/224320540402253824" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.medium.com/@dieantwoordza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/20395182/die-antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+<a href="https://www.youtube.com/c/UCnl7cWx6PVdIelry9YBFxXA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
+<a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+</p>
 
-<p align="left"> <a href="https://www.codepen.io/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/224320540402253824" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@dieantwoordza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20395182/die-antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCnl7cWx6PVdIelry9YBFxXA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 ### Badges
-
+︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Die-Antwoord"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Die-Antwoord's GitHub stats" /></a>
