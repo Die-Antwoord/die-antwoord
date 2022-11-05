@@ -1,4 +1,3 @@
-![Banner](https://cdn.discordapp.com/attachments/933744130289463386/933941326477668372/tumblr_nku1ycXzKS1rm2da9o4_500.gif)
 ![](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)My name is Die Antwoord
 ====================================================================================================================================
 
@@ -86,7 +85,7 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=f
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Die-Antwoord"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Die-Antwoord's GitHub stats" /></a>
-
+![Banner](https://cdn.discordapp.com/attachments/933744130289463386/933941326477668372/tumblr_nku1ycXzKS1rm2da9o4_500.gif)
 
 
 
