@@ -5,9 +5,9 @@
 Die Antwoord
 ====================================================================================================================================
 
-[Die-Antwoord](https://github.com/Die-Antwoord)![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
-[Zef-Side](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
-[Love-Society](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
+[Die-Antwoord - ](https://github.com/Die-Antwoord)![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
+[Zef-Side - ](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
+[Love-Society - ](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
 
 # My Background and experties
 ------------------------------
