@@ -1,3 +1,4 @@
+![Banner](https://cdn.discordapp.com/attachments/933744130289463386/933941326477668372/tumblr_nku1ycXzKS1rm2da9o4_500.gif)
 ![](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)My name is Die Antwoord
 ====================================================================================================================================
 
