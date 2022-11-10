@@ -105,11 +105,11 @@ src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-
 src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
+<!--
 ![Footer](https://cdn.discordapp.com/attachments/933744130289463386/1038580730797756436/1T.png)
 
 
-<!--
+
 # Die Antwoord 👋 [<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://autocode.com/dieantwoord/)
 
 ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
