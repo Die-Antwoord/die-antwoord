@@ -99,6 +99,10 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
+![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
+![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
 
 * 🌍  I'm based in 0.0.0.0/0
 * ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
@@ -110,6 +114,12 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=f
 
 
 <!--
+
+![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
+![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
+
 ![Footer](https://cdn.discordapp.com/attachments/933744130289463386/1038580730797756436/1T.png)
 
 
