@@ -15,7 +15,7 @@ Die Antwoord
 - [Love-Society - ](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
 - [The-Repo-Office - ](https://github.com/The-Repo-Office)![The-Repo-Office](https://komarev.com/ghpvc/?username=The-Repo-Office)
 
-- [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824)](https://discord.com/users/224320540402253824)
+[![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824)](https://discord.com/users/224320540402253824)
 
 # My Background and experties
 ------------------------------
