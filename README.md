@@ -3,17 +3,18 @@
 -->
 <!--
 <a href="https://vaccinator.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png" alt="HTML5" /></a>
--->
-<!--
+
+- [Zef-Side - ](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
+- [Love-Society - ](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
+
+- [The-Repo-Office - ](https://github.com/The-Repo-Office)![The-Repo-Office](https://komarev.com/ghpvc/?username=The-Repo-Office)
 ![Banner2](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
 -->
-Die Antwoord
+Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
 ====================================================================================================================================
 
 - [Die-Antwoord - ](https://github.com/Die-Antwoord)![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
-- [Zef-Side - ](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
-- [Love-Society - ](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
-- [The-Repo-Office - ](https://github.com/The-Repo-Office)![The-Repo-Office](https://komarev.com/ghpvc/?username=The-Repo-Office)
+
 
 # My Background and experties
 ------------------------------
