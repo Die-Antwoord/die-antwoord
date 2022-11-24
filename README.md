@@ -90,7 +90,7 @@
 ### 🛡 Badges ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
 
 <b> 📍 My GitHub Stats 💻 </b>
-
+<p align="center">
 <a href="http://www.github.com/Die-Antwoord"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Die-Antwoord's GitHub stats" /></a>
 <p align="center">
 <a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
@@ -101,22 +101,22 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 </p>
-
+<p align="center">
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
-
-* 🌍  I'm based in 0.0.0.0/0
+</p>
+* 🌍  I'm based in [0.0.0.0/0](https://dsc.gg/djpandora)
 * ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
-* 🚀  I'm currently working on [Pandora](http://pandora.xyz)
+* 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)
 * 🧠  I'm learning Python and JS
 * 🤝  I'm open to collaborating on anything related to 0 & 1
 * ⚡  I like to go Fishing
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
-
+<p align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824)](https://discord.com/users/224320540402253824)
-
+</p>
 <!--
 
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
