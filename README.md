@@ -101,12 +101,12 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 </p>
-<p align="center">
+
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
-</p>
+
 * 🌍  I'm based in [0.0.0.0/0](https://dsc.gg/djpandora)
 * ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
 * 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)
@@ -114,9 +114,9 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for
 * 🤝  I'm open to collaborating on anything related to 0 & 1
 * ⚡  I like to go Fishing
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
-<p align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824)](https://discord.com/users/224320540402253824)
-</p>
+
 <!--
 
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
