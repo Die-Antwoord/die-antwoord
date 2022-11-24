@@ -95,13 +95,11 @@
 </p>
 <p align="center">
 <a href="https://autocode.com/dieantwoord" target="_blank" rel="noreferrer"><img src="https://open.autocode.com/static/images/open.svg?" width="192"></a>
-<a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://replit.com/@Die-Antwoord" target="noreferrer"><img src="https://img.shields.io/badge/replit-profile-blue" /></a>
 </p>
 
 <!--
@@ -114,7 +112,7 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for
 * ✉️  You can contact me at [thedevil@hell.com](https://dsc.gg/djpandora)
 * 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)
 * 🧠  I'm learning [Python](https://dsc.gg/djpandora) and JS
-* 🤝  I'm open to collaborating on anything related to [0 & 1](https://dsc.gg/djpandora)
+* 🤝  I'm open to collaborating on anything related to [0 & 1](https://dsc.gg/djpandora) ![Discord](https://img.shields.io/discord/1037718581091250206)
 * ⚡  I like to go [Fishing](https://dsc.gg/djpandora)
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 
