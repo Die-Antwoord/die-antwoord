@@ -15,12 +15,8 @@
 
 - [Die-Antwoord - ](https://github.com/Die-Antwoord)![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
 - [My-replit - ](https://replit.com/@Die-Antwoord)![Die-Antwoord](https://img.shields.io/badge/replit-profile-blue)
-</p>
-<p align="left">
-<a href="https://replit.com/@Die-Antwoord" target="noreferrer"><img src="https://img.shields.io/badge/replit-profile-blue" /></a>
-</p>
 
-### 🎓 Skills ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
+## 🎓 Skills ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -34,7 +30,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### 📫 Socials ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
+## 📫 Socials ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
 <p align="center">
 <a href="https://www.codepen.io/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/224320540402253824" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
@@ -46,7 +42,7 @@
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
-### 🛡 Badges ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
+## 🛡 Badges ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
 
 <b> 📍 My GitHub Stats 💻 </b>
 <p align="center">
@@ -59,10 +55,10 @@
 <a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-# My Background and experties
+## My Background and experties
 ------------------------------
 
-## Qualification and Achievements 🔭
+### Qualification and Achievements 🔭
 
 ```ini
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
@@ -82,9 +78,9 @@
 ⦁ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
 ```
 
-## Responsibilities and Duties 🏄
+### Responsibilities and Duties 🏄
 
-### Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
+#### Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
 
 ```properties
 ⦁ SQL Server Databases 
@@ -109,10 +105,10 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
 -->
-* 🌍  I'm based in [0.0.0.0/0](https://dsc.gg/djpandora)
+* 🌍  I'm based in [0.0.0.0/0](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 * ✉️  You can contact me at [thedevil@hell.com](https://discord.com/users/224320540402253824)
 * 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)![Discord](https://img.shields.io/discord/1037718581091250206) 
-* 🧠  I'm learning [Python](https://dsc.gg/djpandora) and JS
+* 🧠  I'm learning [Python](https://dsc.gg/djpandora) and [JS](https://dsc.gg/djpandora)
 * 🤝  I'm open to collaborating on anything related to [0 & 1](https://dsc.gg/djpandora) 
 * ⚡  I like to go [Fishing](https://dsc.gg/djpandora)
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
