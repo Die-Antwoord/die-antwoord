@@ -99,7 +99,7 @@ src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-
 <a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 </p>
 
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
