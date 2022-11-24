@@ -119,7 +119,7 @@
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/224320540402253824)](https://discord.com/users/224320540402253824)
+[![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824)](https://discord.com/users/224320540402253824)
 
 <!--
 
