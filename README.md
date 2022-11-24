@@ -91,6 +91,7 @@
 
 <b> 📍 My GitHub Stats 💻 </b>
 <p align="center">
+<a href="https://autocode.com/dieantwoord" target="_blank" rel="noreferrer"><img src="https://open.autocode.com/static/images/open.svg?" width="192"></a>
 <a href="http://www.github.com/Die-Antwoord"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Die-Antwoord's GitHub stats" /></a>
 <p align="center">
 <a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
@@ -102,7 +103,7 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 </p>
 
-[![autocode](<img src="https://open.autocode.com/static/images/open.svg?" width="192">)](<https://autocode.com/dieantwoord>)
+<a href="https://autocode.com/dieantwoord" target="_blank" rel="noreferrer"><img src="https://open.autocode.com/static/images/open.svg?" width="192"></a>
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
