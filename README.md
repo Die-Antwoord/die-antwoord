@@ -109,10 +109,10 @@
 [![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
 -->
 * 🌍  I'm based in [0.0.0.0/0](https://dsc.gg/djpandora)
-* ✉️  You can contact me at [thedevil@hell.com](https://dsc.gg/djpandora)
-* 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)
+* ✉️  You can contact me at [thedevil@hell.com](https://discord.com/users/224320540402253824)
+* 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)![Discord](https://img.shields.io/discord/1037718581091250206) 
 * 🧠  I'm learning [Python](https://dsc.gg/djpandora) and JS
-* 🤝  I'm open to collaborating on anything related to [0 & 1](https://dsc.gg/djpandora) ![Discord](https://img.shields.io/discord/1037718581091250206)
+* 🤝  I'm open to collaborating on anything related to [0 & 1](https://dsc.gg/djpandora) 
 * ⚡  I like to go [Fishing](https://dsc.gg/djpandora)
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 
