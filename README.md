@@ -104,18 +104,18 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 </p>
 
-
+<!--
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
-
+-->
 * 🌍  I'm based in [0.0.0.0/0](https://dsc.gg/djpandora)
-* ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
+* ✉️  You can contact me at [thedevil@hell.com](https://dsc.gg/djpandora)
 * 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)
-* 🧠  I'm learning Python and JS
-* 🤝  I'm open to collaborating on anything related to 0 & 1
-* ⚡  I like to go Fishing
+* 🧠  I'm learning [Python](https://dsc.gg/djpandora) and JS
+* 🤝  I'm open to collaborating on anything related to [0 & 1](https://dsc.gg/djpandora)
+* ⚡  I like to go [Fishing](https://dsc.gg/djpandora)
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 
 
