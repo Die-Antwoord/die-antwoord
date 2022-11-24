@@ -99,6 +99,8 @@
 /></a>
 <a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitch&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+</p>
+<p align="left">
 <a href="https://replit.com/@Die-Antwoord" target="noreferrer"><img src="https://img.shields.io/badge/replit-profile-blue" /></a>
 </p>
 
