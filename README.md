@@ -10,7 +10,7 @@
 - [The-Repo-Office - ](https://github.com/The-Repo-Office)![The-Repo-Office](https://komarev.com/ghpvc/?username=The-Repo-Office)
 ![Banner2](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
 -->
-Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
+🛸 Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
 ====================================================================================================================================
 
 - [Die-Antwoord - ](https://github.com/Die-Antwoord)![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
@@ -19,7 +19,7 @@ Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778
 # My Background and experties
 ------------------------------
 
-## Qualification and Achievements 
+## Qualification and Achievements 🔭
 
 ```ini
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
@@ -39,7 +39,7 @@ Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778
 ⦁ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
 ```
 
-## Responsibilities and Duties 
+## Responsibilities and Duties 🏄
 
 ### Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
 
@@ -61,8 +61,8 @@ Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778
 ```
 
 
-### Skills ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
-<p align="left">
+### 🎓 Skills ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -75,8 +75,8 @@ Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
-<p align="left">
+### 📫 Socials ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
+<p align="center">
 <a href="https://www.codepen.io/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/224320540402253824" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
@@ -89,10 +89,10 @@ Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778
 
 ### Badges ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
-<b>My GitHub Stats</b>
+<b> 📍 My GitHub Stats 💻 </b>
 
 <a href="http://www.github.com/Die-Antwoord"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Die-Antwoord's GitHub stats" /></a>
-
+<p align="center">
 <a href="https://www.twitter.com/dieantwoordza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
@@ -100,6 +100,7 @@ src="https://img.shields.io/twitter/follow/dieantwoordza?logo=twitter&style=for-
 src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+</p>
 
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
@@ -107,17 +108,16 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=f
 [![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
 
 * 🌍  I'm based in 0.0.0.0/0
-* ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
-* 🚀  I'm currently working on [Pandora](http://pandora.xyz)
+* ✉️  You can contact me at [thedevil@hell.com](mailto:thedevil@hell.com)
+* 🚀  I'm currently working on [Pandora](http://pandora.xyz)
 * 🧠  I'm learning Python and JS
 * 🤝  I'm open to collaborating on anything related to 0 & 1
 * ⚡  I like to go Fishing
-* 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
+* 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824)](https://discord.com/users/224320540402253824)
 
 <!--
-
 
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
@@ -144,15 +144,15 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=f
 - 💻 I’m looking for help with  ➔ Python
 - 💬 Ask me about  ➔ ||Joe||
 - 📫 How to reach me:  ➔ [Discord](https://dsc.gg/dso)
-- 🏄‍♂️ Fun fact:  ➔ The Earth is Flat.
+- 🏄 Fun fact:  ➔ The Earth is Flat.
 
 ･☪ ·̩　　 ｡　☆　　　ﾟ｡　　　ﾟ･　　｡ﾟ･　　☆ﾟ　+
 
 ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
-｡　　　ﾟ･　　｡ﾟ･　　☆ﾟ　+　　　*　　　* 　 。＊ 　  　･ ͙　☆ 。
+｡🪐　　　ﾟ･　　｡ﾟ･　　☆ﾟ　+　　　　* 　🌟 。  　･ ͙　☆ 。
 
-### Skills
+### Skills 🌠
 
 ＊ 　 ｡*　　+　 　＊ 　･ ͙　☆　　　*　　　* 　 。
 
@@ -163,7 +163,16 @@ src="https://img.shields.io/twitch/status/die_antwoord_wkj?logo=twitchsx&style=f
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
   
-  ＊ 　 ｡*　　+　 　＊ 　･ ͙　☆　　　*　　　* 　 。
+  ＊ 　 ｡*　⭐
+  🌀☄⭐🌕🌑🌏🌎🌍🚀🛸🛰✨⭐🌀🌈
+
+  🎩⛑💎🎖🥋🎮📢♥🎼🎧🎚🎤🪕🥁
+
+  ⚙🗜🔩🧱🧬⚒🛠⛏🔗🩸⚖🩹💊🔬🧲🧰🛡🗡⚔
+
+  📞☎💻🖥🖨💾📺📡📽🎬🎥📀📼📹📕🔍🔎
+
+  📔📙📚🧾📨💶📭📦🗳📮📝📁📂🗂📍📌　+　 　＊ 　･ ͙　☆　　　*　　　* 　 。
 
   ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
