@@ -98,6 +98,12 @@
 * 🤖  Free VM Bot [Hosting services](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 
 
+
+
+
+
+<!--
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824)](https://discord.com/users/224320540402253824)
 
 
@@ -110,7 +116,7 @@
 [![Top contributors](https://images.repography.com/31550882/Die-Antwoord/Pyro/recent-activity/8ff3a6cfa57cb512845ea45091f4eea7_users.svg)](https://github.com/Die-Antwoord/Pyro/graphs/contributors)
 [![Activity map](https://images.repography.com/31550882/Die-Antwoord/Pyro/recent-activity/8ff3a6cfa57cb512845ea45091f4eea7_map.svg)](https://github.com/Die-Antwoord/Pyro/commits)
 
-
+-->
 <!--
 
 ![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
