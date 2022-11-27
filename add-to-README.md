@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
+    <img src="https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif">
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&count_private=true&show_icons=true&theme=chartreuse-dark">
