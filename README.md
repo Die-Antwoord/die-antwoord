@@ -8,7 +8,7 @@
 </a>
 </p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Die-Antwoords=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoords&show_icons=true&theme=radical)
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
