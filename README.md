@@ -1,13 +1,12 @@
 <p align='center'>
     <img src="https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif">
 </p>
-
-<a href="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&count_private=true&show_icons=true&theme=chartreuse-dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/Die-Antwoords">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<a href="https://github.com/Die-Antwoords"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Die-Antwoords=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
