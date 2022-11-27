@@ -1,22 +1,11 @@
-<!--
-![Banner1](https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png)
--->
-<!--
-<a href="https://vaccinator.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png" alt="HTML5" /></a>
 
-- [Zef-Side - ](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
-- [Love-Society - ](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
-
-- [The-Repo-Office - ](https://github.com/The-Repo-Office)![The-Repo-Office](https://komarev.com/ghpvc/?username=The-Repo-Office)
-![Banner2](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
--->
 🛸 Die Antwoord ![Banner](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
 ====================================================================================================================================
 
 - [Die-Antwoord - ](https://github.com/Die-Antwoord)![Die-Antwoord](https://komarev.com/ghpvc/?username=Die-Antwoord)
 - [My-replit - ](https://replit.com/@Die-Antwoord)![Die-Antwoord](https://img.shields.io/badge/replit-profile-blue)
 
-## 🎓 Skills ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
+## 🎓 Skills ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -30,7 +19,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-## 📫 Socials ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
+## 📫 Socials ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 <p align="center">
 <a href="https://www.codepen.io/Die-Antwoord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/224320540402253824" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
@@ -42,7 +31,7 @@
 <a href="https://www.twitch.tv/die_antwoord_wkj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
-## 🛡 Badges ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽
+## 🛡 Badges ︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾︽︾
 
 <b> 📍 My GitHub Stats 💻 </b>
 <p align="center">
@@ -99,12 +88,7 @@
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
 
-<!--
-![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
-![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
--->
+
 * 🌍  I'm based in [0.0.0.0/0](https://gh.scoopydev.xyz/?ref=TcbAFM8Z)
 * ✉️  You can contact me at [thedevil@hell.com](https://discord.com/users/224320540402253824)
 * 🚀  I'm currently working on [Pandora](https://dsc.gg/djpandora)![Discord](https://img.shields.io/discord/1037718581091250206) 
@@ -221,4 +205,23 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
 
  
 **Die-Antwoord/die-antwoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<!--
+![Banner1](https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png)
+-->
+<!--
+<a href="https://vaccinator.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png" alt="HTML5" /></a>
+
+- [Zef-Side - ](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
+- [Love-Society - ](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
+
+- [The-Repo-Office - ](https://github.com/The-Repo-Office)![The-Repo-Office](https://komarev.com/ghpvc/?username=The-Repo-Office)
+![Banner2](https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif)
+-->
+
+<!--
+![status](https://dev.discordprofiles.me/badge/status/224320540402253824?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/224320540402253824)
+![vscode](https://dev.discordprofiles.me/badge/vscode/224320540402253824)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/224320540402253824)](https://dev.discordprofiles.me/openspotify/224320540402253824)
 -->
