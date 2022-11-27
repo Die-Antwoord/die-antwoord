@@ -28,4 +28,8 @@
 
 
 <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Die-Antwoords&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Die-Antwoords" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Die-Antwoords" /></p>
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord)](https://git.io/streak-stats)
+-->
