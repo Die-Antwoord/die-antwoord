@@ -9,10 +9,10 @@
 <a href="https://github.com/Die-Antwoords"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 </p>
--->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoords&show_icons=true&theme=radical)
-
+-->
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
