@@ -1,3 +1,7 @@
+# Die Antoowrd
+
+![Visits](https://komarev.com/ghpvc/?username=Zef-Side)
+
 <p align='center'>
     <img src="https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif">
 </p>
@@ -12,7 +16,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoords&show_icons=true&theme=radical)
 -->
 ### Languages
-![Visits](https://komarev.com/ghpvc/?username=Zef-Side)
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
