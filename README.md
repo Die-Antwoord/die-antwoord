@@ -4,17 +4,15 @@
 
 <!--
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&count_private=true&show_icons=true&theme=chartreuse-dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/Die-Antwoords"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+<a href="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&count_private=true&show_icons=true&theme=chartreuse-dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/Die-Antwoords"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 </p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoords&show_icons=true&theme=radical)
 -->
 ### Languages
-
+![Visits](https://komarev.com/ghpvc/?username=Zef-Side)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
