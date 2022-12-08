@@ -2,7 +2,7 @@
 
 ![Visits](https://komarev.com/ghpvc/?username=Zef-Side)
 
-[<image src="./slime-banner.png" alt=Slime-Banner width=1440/>]
+<image src="./slime-banner.png" alt=Slime-Banner width=1440/>
 
 <!--
     <p align='center'>
