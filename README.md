@@ -2,19 +2,25 @@
 
 ![Visits](https://komarev.com/ghpvc/?username=Zef-Side)
 
-<p align='center'>
-    <img src="https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif">
-</p>
+[<image src="./slime-banner.png" alt=Slime-Banner width=1440/>]
 
 <!--
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&count_private=true&show_icons=true&theme=chartreuse-dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-<a href="https://github.com/Die-Antwoords"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-</p>
+    <p align='center'>
+    <img src="https://cdn.discordapp.com/attachments/937613851401289778/1011904776608423996/pokemon.gif">
+    </p>
+
+    [<image src="./twitter.png" alt=Twitter width=64/>](https://twitter.com/User9684)
+    [<image src="./slime-banner.png" alt=Discord width=1440/>](https://discordapp.com/users/212795145639165952)
+
+    <p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&count_private=true&show_icons=true&theme=chartreuse-dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+    <a href="https://github.com/Die-Antwoords"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoords&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+    </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoords&show_icons=true&theme=radical)
--->
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoords&show_icons=true&theme=radical)
+    -->
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -88,6 +94,10 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12" />
 </p>
+
+
 <!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord)](https://git.io/streak-stats)
--->
+
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord)](https://git.io/streak-stats)
+
+    -->
