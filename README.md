@@ -15,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoords&show_icons=true&theme=radical)
 -->
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -23,12 +23,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-### Technologies
+## Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+
 ## My Background and experties
 ------------------------------
 
@@ -52,9 +53,9 @@
 ⦁ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
 ```
 
-### Responsibilities and Duties 🏄
+## Responsibilities and Duties 🏄
 
-#### Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
+### Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
 
 ```properties
 ⦁ SQL Server Databases 
@@ -73,13 +74,13 @@
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
 
-<b>🔥 Github Streaks</b>
+##🔥 Github Streaks
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Die-Antwoords" />
 </p>
-<b>📊 Github Stats</b>
+##📊 Github Stats
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12" />
 </p>
-<b>👩‍💻 Used Languages</b>
+##👩‍💻 Used Languages
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12" />
 </p>
 <!--
