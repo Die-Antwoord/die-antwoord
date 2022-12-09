@@ -80,18 +80,10 @@
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
 
-## 🔥 Github Streaks
-
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Die-Antwoords" />
 </p>
-
-## 📊 Github Stats
-
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12" />
 </p>
-
-## 👩‍💻 Used Languages
-
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12" />
 </p>
 
