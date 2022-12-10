@@ -213,11 +213,8 @@ src="https://img.shields.io/github/followers/Die-Antwoord?logo=github&style=for-
  
 **Die-Antwoord/die-antwoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 <!--
-![Banner1](https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png)
--->
-<!--
-<a href="https://vaccinator.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/933744130289463386/1038580116999110716/malware_analyst_transparent_Custom1.png" alt="HTML5" /></a>
 
 - [Zef-Side - ](https://github.com/Zef-Side)![Zef-Side](https://komarev.com/ghpvc/?username=Zef-Side)
 - [Love-Society - ](https://github.com/Love-Society)![Love-Society](https://komarev.com/ghpvc/?username=Love-Society)
