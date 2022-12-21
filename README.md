@@ -73,12 +73,12 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true" />
 </picture>
@@ -86,7 +86,5 @@
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Die-Antwoords" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=github_dark&langs_count=8)](https://github.com/Die-Antwoord/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12)](https://github.com/Die-Antwoord/github-readme-stats)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12" />
-</p>
