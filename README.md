@@ -70,6 +70,9 @@
 ⦁ Backups tapes, drives and online storage 
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
+
+### GitHub Profile Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://git.io/streak-stats)
