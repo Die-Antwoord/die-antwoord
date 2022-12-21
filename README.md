@@ -70,21 +70,8 @@
 ⦁ Backups tapes, drives and online storage 
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true" />
-</picture>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://git.io/streak-stats)
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Die-Antwoords" />
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12)](https://github.com/Die-Antwoord/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://github.com/Die-Antwoord/github-readme-stats)
