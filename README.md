@@ -1,4 +1,5 @@
 
+
 <image src="./slime-banner.png" alt=Slime-Banner width=1440/>
 
 # Die Antwoord
@@ -70,9 +71,22 @@
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true" />
+</picture>
+
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Die-Antwoords" />
 </p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Die-Antwoord&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12" />
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=github_dark&langs_count=8)](https://github.com/Die-Antwoord/github-readme-stats)
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12" />
 </p>
