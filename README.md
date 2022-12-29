@@ -79,3 +79,4 @@ My Background and experties
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/224320540402253824?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=There%20can%20only%20be%20one...)](https://discord.gg/aF4Uq4DxdJ)
 
+[url=https://myanimelist.net/animelist/dieantwoord&sclick=1][IMG]https://cdn.myanimelist.net/signature/dieantwoord.png[/IMG][/url] 
