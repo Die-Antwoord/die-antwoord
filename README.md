@@ -78,5 +78,6 @@ My Background and experties
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/224320540402253824?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=There%20can%20only%20be%20one...)](https://discord.gg/aF4Uq4DxdJ)
-
+<!--
 [![MyAnimeList](https://cdn.myanimelist.net/signature/dieantwoord.png)](https://myanimelist.net/animelist/dieantwoord)
+-->
