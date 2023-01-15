@@ -1,5 +1,5 @@
 
-<image src="./assets/slime-sword.png" alt=Slime-Banner width=1440/>
+<image src="./assets/image00.png" alt=Slime-Banner width=1440/>
 
 # Die Antwoord
 
