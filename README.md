@@ -26,8 +26,8 @@
 
 My Background and experties
 ------------------------------
-
-### Qualification and Achievements 🔭
+<details>
+ <summary><b>🔭 Qualification and Achievements 🔭</b></summary>
 
 ```ini
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
@@ -46,11 +46,12 @@ My Background and experties
 ⦁ CCNA 
 ⦁ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
 ```
+</details>
 
 ## Responsibilities and Duties 🏄
 
-### Assembling, Implementation, Configuration Managing and Maintaining Infrastructures Physical and Logical proprieties 
-
+<details>
+ <summary><b>🔭 Assembling, Implementation, Configuration Managing and Maintaining Infrastructures 🔭</b></summary>
 
 ```properties
 ⦁ SQL Server Databases 
@@ -68,6 +69,7 @@ My Background and experties
 ⦁ Backups tapes, drives and online storage 
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
+</details>
 
 ### GitHub Profile Stats
 
