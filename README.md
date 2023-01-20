@@ -21,7 +21,7 @@
 
 [![Gitlab](https://img.shields.io/badge/Gitlab-blue?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
 
-[![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
+[![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
 
 
