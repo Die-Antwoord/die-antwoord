@@ -8,7 +8,7 @@
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/die_antwoord_za?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/die_antwoord_wkj?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/YouTube/UCnl7cWx6PVdIelry9YBFxXA?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl7cWx6PVdIelry9YBFxXA?style=social)
 
 ### Languages
 
