@@ -33,30 +33,30 @@
 
 
 <details>
- <summary><b>💠 My Background and experties</b></summary>
+ <summary><b>💠</b></summary>
  
-https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
+(https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000
-https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
-https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
-https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
-https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
-https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white
-https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+(https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)
+(https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+(https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+(https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+(https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+(https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+(https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+(https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
+(https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+(https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
+(https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+(https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+(https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+(https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+(https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white
