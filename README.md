@@ -15,18 +15,15 @@
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)](https://gitlab.com/die-antwoord)
 [![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Technologies
+### Languages & Technologies
 
 ![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 
