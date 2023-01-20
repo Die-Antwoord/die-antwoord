@@ -35,9 +35,9 @@
 <details>
  <summary><b>💠</b></summary>
  
-[](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+[Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-[](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)
+[github](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)
 [](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 [](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 [](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
