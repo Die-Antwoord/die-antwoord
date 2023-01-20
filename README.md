@@ -31,7 +31,8 @@
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 
-
+<details>
+ <summary><b>💠 My Background and experties</b></summary>
 
 ![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
@@ -93,7 +94,10 @@
 ![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+</details>
+
 ------------------------------
+
 <details>
  <summary><b>💠 My Background and experties</b></summary>
 
