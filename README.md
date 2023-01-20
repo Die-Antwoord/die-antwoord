@@ -4,6 +4,11 @@
 # Die Antwoord
 
 ![Visits](https://komarev.com/ghpvc/?username=Die-Antwoord)
+![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/die_antwoord_za?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/die_antwoord_wkj?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/YouTube/UCnl7cWx6PVdIelry9YBFxXA?style=social)
 
 ### Languages
 
@@ -24,11 +29,13 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://discord.gg/aF4Uq4DxdJ)
 
-My Background and experties
+
 ------------------------------
 <details>
- <summary><b>🔭 Qualification and Achievements 🔭</b></summary>
+ <summary><b>💠 My Background and experties</b></summary>
 
+ 🔭 Qualification and Achievements 🔭
+ 
 ```ini
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
 ⦁ +A 220-602 (IT Technician) Exam No 220-602 
@@ -48,11 +55,11 @@ My Background and experties
 ```
 </details>
 
-## Responsibilities and Duties 🏄
-
 <details>
- <summary><b>🔭 Assembling, Implementation, Configuration Managing and Maintaining Infrastructures 🔭</b></summary>
+ <summary><b>💠 Responsibilities and Duties</b></summary>
 
+ 🔭 Assembling, Implementation, Configuration Managing and Maintaining Infrastructures 🔭
+ 
 ```properties
 ⦁ SQL Server Databases 
 ⦁ Active Directory Domain Server Infrastructure 
@@ -71,8 +78,8 @@ My Background and experties
 ```
 </details>
 
-### GitHub Profile Stats
-
+<details>
+ <summary><b>💠 GitHub Profile Stats</b></summary>
 
 [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
