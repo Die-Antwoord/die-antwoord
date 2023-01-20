@@ -16,6 +16,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
 [![Replit](https://img.shields.io/badge/-Replit-000?&logo=Replit)](https://replit.com/@Die-Antwoord)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)](https://gitlab.com/die-antwoord)
+[![npmjs](https://img.shields.io/badge/-npmjs-000?&logo=npmjs)](https://www.npmjs.com/~dieantwoord)
 [![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
 ### Languages & Technologies
@@ -24,7 +25,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://www.npmjs.com/~dieantwoord)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
