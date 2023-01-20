@@ -24,6 +24,7 @@
 
 ### Technologies
 
+![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
