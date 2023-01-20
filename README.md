@@ -5,16 +5,15 @@
 
 ![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)
 
-![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=for-the-badge&logo=GitHub)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/die_antwoord_za?style=for-the-badge&logo=Reddit)
-![Twitch Status](https://img.shields.io/twitch/status/die_antwoord_wkj?style=for-the-badge&logo=Twitch)
-![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=for-the-badge&logo=Twitter)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl7cWx6PVdIelry9YBFxXA?style=for-the-badge&logo=YouTube)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Die-Antwoord/silly-cat?style=for-the-badge&logo=GitHub)
-![Replit](https://img.shields.io/badge/Replit-Profile-blue?style=for-the-badge&logo=Replit)
-
-
-
+[![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=for-the-badge&logo=GitHub)](https://github.com/Die-Antwoord)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/die_antwoord_za?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
+[![Twitch Status](https://img.shields.io/twitch/status/die_antwoord_wkj?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=for-the-badge&logo=Twitter)](https://twitter.com/dieantwoordza)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl7cWx6PVdIelry9YBFxXA?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Die-Antwoord/silly-cat?style=for-the-badge&logo=GitHub)](https://github.com/User9684/silly-cat)
+[![Replit](https://img.shields.io/badge/Replit-Profile-blue?style=for-the-badge&logo=Replit)](https://replit.com/@Die-Antwoord)
+[![Gitlab](https://img.shields.io/badge/Gitlab-Profile-blue?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-green?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
 
 
