@@ -8,6 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=for-the-badge&logo=GitHub)](https://github.com/Die-Antwoord)
 [![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 
+[![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
 [![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
 [![Twitch](https://img.shields.io/badge/-Twitch-000?&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/dieantwoordza)
