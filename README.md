@@ -122,7 +122,7 @@
 <details>
  <summary><b>💠 Responsibilities and Duties</b></summary>
 
- 🔭 Assembling, Implementation, Configuration Managing and Maintaining Infrastructures 🔭
+ 🔭 Implementation, Configuration Managing and Maintaining Infrastructures 🔭
 ------------------------------
  
 ```properties
