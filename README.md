@@ -8,27 +8,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=for-the-badge&logo=GitHub)](https://github.com/Die-Antwoord)
 
 [![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
-
 [![Twitch](https://img.shields.io/badge/-Twitch-000?&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
-
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/dieantwoordza)
-
 [![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
-
 [![Replit](https://img.shields.io/badge/-Replit-000?&logo=Replit)](https://replit.com/@Die-Antwoord)
-
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)](https://gitlab.com/die-antwoord)
-
 [![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
-
-
-
-
-
-
-
-
-
 
 ### Languages
 
