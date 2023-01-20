@@ -11,9 +11,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=for-the-badge&logo=Twitter)](https://twitter.com/dieantwoordza)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl7cWx6PVdIelry9YBFxXA?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Die-Antwoord/silly-cat?style=for-the-badge&logo=GitHub)](https://github.com/User9684/silly-cat)
-[![Replit](https://img.shields.io/badge/Replit-Profile-blue?style=for-the-badge&logo=Replit)](https://replit.com/@Die-Antwoord)
-[![Gitlab](https://img.shields.io/badge/Gitlab-Profile-blue?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
-[![Spotify](https://img.shields.io/badge/Spotify-Profile-green?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
+[![Replit](https://img.shields.io/badge/Replit-blue?style=for-the-badge&logo=Replit)](https://replit.com/@Die-Antwoord)
+[![Gitlab](https://img.shields.io/badge/Gitlab-blue?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
+[![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
 
 
