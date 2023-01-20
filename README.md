@@ -98,6 +98,7 @@
  <summary><b>💠 My Background and experties</b></summary>
 
  🔭 Qualification and Achievements 🔭
+------------------------------
  
 ```ini
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
@@ -122,6 +123,7 @@
  <summary><b>💠 Responsibilities and Duties</b></summary>
 
  🔭 Assembling, Implementation, Configuration Managing and Maintaining Infrastructures 🔭
+------------------------------
  
 ```properties
 ⦁ SQL Server Databases 
@@ -144,6 +146,8 @@
 <details>
  <summary><b>💠 GitHub Profile Stats</b></summary>
 
+------------------------------
+ 
 [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
@@ -152,6 +156,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824?theme=dark&bg=06142e&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=||There%20can%20only%20be%20one||)](https://discord.com/users/224320540402253824)
 
+</details>
+ 
 <!--
 [![MyAnimeList](https://cdn.myanimelist.net/signature/dieantwoord.png)](https://myanimelist.net/animelist/dieantwoord&sclick=1)
 -->
