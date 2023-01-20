@@ -3,7 +3,7 @@
 
 # Die Antwoord
 
-![Visits](https://komarev.com/ghpvc/?username=Die-Antwoord)
+![Visits](https://komarev.com/ghpvc/?username=Die-Antwoord?style=for-the-badge&logo=social)
 ![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=for-the-badge&logo=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/die_antwoord_za?style=for-the-badge&logo=social)
 ![Twitch Status](https://img.shields.io/twitch/status/die_antwoord_wkj?style=for-the-badge&logo=social)
