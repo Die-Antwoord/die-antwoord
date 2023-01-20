@@ -6,6 +6,7 @@
 ![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)
 
 [![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=for-the-badge&logo=GitHub)](https://github.com/Die-Antwoord)
+[![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 
 [![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
 [![Twitch](https://img.shields.io/badge/-Twitch-000?&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
@@ -26,12 +27,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-
-### Top
-
-[![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
-[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://discord.gg/aF4Uq4DxdJ)
-
 
 ------------------------------
 <details>
