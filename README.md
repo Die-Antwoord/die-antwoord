@@ -11,7 +11,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=for-the-badge&logo=Twitter)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl7cWx6PVdIelry9YBFxXA?style=for-the-badge&logo=YouTube)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Die-Antwoord/silly-cat?style=for-the-badge&logo=GitHub)
-![Replit](https://img.shields.io/replit/follow/Die-Antwoord?style=for-the-badge&logo=Replit)
+![Replit](https://img.shields.io/badge/Replit-Profile-blue?style=for-the-badge&logo=Replit)
 
 
 
