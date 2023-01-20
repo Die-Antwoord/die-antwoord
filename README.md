@@ -4,11 +4,11 @@
 # Die Antwoord
 
 ![Visits](https://komarev.com/ghpvc/?username=Die-Antwoord)
-![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/die_antwoord_za?style=social)
-![Twitch Status](https://img.shields.io/twitch/status/die_antwoord_wkj?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl7cWx6PVdIelry9YBFxXA?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord?style=for-the-badge&logo=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/die_antwoord_za?style=for-the-badge&logo=social)
+![Twitch Status](https://img.shields.io/twitch/status/die_antwoord_wkj?style=for-the-badge&logo=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dieantwoordza?style=for-the-badge&logo=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl7cWx6PVdIelry9YBFxXA?style=for-the-badge&logo=social)
 
 ### Languages
 
