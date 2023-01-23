@@ -5,13 +5,12 @@
 
 ------------------------------
 
-[![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
+[![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
+[![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-me-anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
 
-[![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
-[![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?)](https://discord.gg/aF4Uq4DxdJ)
-
+[![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
 [![Discord](https://img.shields.io/badge/-Dangercord-000?&logo=Discord)](https://dangercord.com)
 
