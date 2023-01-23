@@ -32,7 +32,7 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 
 <details>
- <summary><b>💠 My Badges</b></summary>
+ <summary><b>💠 My Badges (reodering)</b></summary>
 
 ![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
