@@ -6,7 +6,7 @@
 ------------------------------
 
 [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
-[![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
+[![Ask-me-anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
 
 [![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
@@ -25,7 +25,7 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
 [![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)](https://github.com/Die-Antwoord)
-[![Google_chrome](https://img.shields.io/badge/-Google_chrome-000?&logo=Google-chrome)](https://github.com/Die-Antwoord)
+[![Google_chrome](https://img.shields.io/badge/-Google_Chrome-000?&logo=Google-chrome)](https://github.com/Die-Antwoord)
 
 [![Replit](https://img.shields.io/badge/-Replit-000?&logo=Replit)](https://replit.com/@Die-Antwoord)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)](https://gitlab.com/die-antwoord)
@@ -53,7 +53,7 @@
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)]()
 [![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?&logo=microsoft-sql-server)]()
 [![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?&logo=microsoft-sharepoint)]()
-[![Microsoft_Azure](https://img.shields.io/badge/-microsoft%20azure-000?&logo=microsoft-azure)]()
+[![Microsoft_Azure](https://img.shields.io/badge/-Microsoft_Azure-000?&logo=microsoft-azure)]()
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)]()
 [![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-000?&logo=arch-linux)]()
@@ -68,7 +68,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)]()
 [![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)]()
 
-[![Powershell](https://img.shields.io/badge/-powershell-000?&logo=powershell)]()
+[![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=powershell)]()
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)]()
@@ -83,8 +83,8 @@
 [![Joomla](https://img.shields.io/badge/-Joomla-000?&logo=joomla)]()
 
 [![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visual%20studio)]()
-[![Sublime_Text](https://img.shields.io/badge/-sublime_text-000?&logo=sublime-text)]()
-[![Gimp](https://img.shields.io/badge/-gimp-000?&logo=gimp)]()
+[![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?&logo=sublime-text)]()
+[![Gimp](https://img.shields.io/badge/-Gimp-000?&logo=gimp)]()
 
 ------------------------------
 
@@ -175,8 +175,6 @@
 #### **Frostbite-Hosting-Services**
 
 - [Frostbite-Hosting-Services](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
-
-
 
 <!--
 x
