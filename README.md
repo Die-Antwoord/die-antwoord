@@ -24,7 +24,7 @@
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)]()
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)]()
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)]()
-[![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-1793D1-000?&logo=arch-linux)]()
+[![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-000?&logo=arch-linux)]()
 [![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)]()
 [![Kali_Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=kali-linux)]()
 [![RedHat](https://img.shields.io/badge/-Red%20Hat-000?&logo=redhat)]()
