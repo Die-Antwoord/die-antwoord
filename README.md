@@ -2,13 +2,12 @@
 <image src="./assets/image00.png" alt=Slime-Banner width=1440/>
 
 # Die Antwoord
-
 ---------------
 
-[![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
-[![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)]()
+[![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything)](https://discord.gg/aF4Uq4DxdJ)
+[![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
 
-[![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)]()
+[![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 [![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?)](https://discord.gg/aF4Uq4DxdJ)
 
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
@@ -19,20 +18,20 @@
 [![Twitch](https://img.shields.io/badge/-Twitch-000?&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/dieantwoordza)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
-[![TikTok](https://img.shields.io/badge/-TikTok-000?&logo=tiktok)]()
-[![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?&logo=soundcloud)]()
+[![TikTok](https://img.shields.io/badge/-TikTok-000?&logo=tiktok)](https://www.tiktok.com/@die_antwoord_wkj)
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
 [![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
-[![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)]()
-[![Google_chrome](https://img.shields.io/badge/-Google_chrome-000?&logo=Google-chrome)]()
+[![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)](https://github.com/Die-Antwoord)
+[![Google_chrome](https://img.shields.io/badge/-Google_chrome-000?&logo=Google-chrome)](https://github.com/Die-Antwoord)
 
 [![Replit](https://img.shields.io/badge/-Replit-000?&logo=Replit)](https://replit.com/@Die-Antwoord)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)](https://gitlab.com/die-antwoord)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)]()
-[![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=codepen)]()
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=bitbucket)]()
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/Die-Antwoord/)
+[![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=codepen)](https://codepen.io/Die-Antwoord)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=bitbucket)](https://bitbucket.org/dieantwoord1)
 [![npmjs](https://img.shields.io/badge/-npmjs-000?&logo=npm)](https://www.npmjs.com/~dieantwoord)
-[![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-000?&logo=stack-overflow)]()
+[![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-000?&logo=stack-overflow)](https://stackoverflow.com/users/20395182/die-antwoord)
 
 [![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)]()
 [![Battle.net](https://img.shields.io/badge/-Battle.net-000?&logo=battle.net)]()
@@ -151,7 +150,16 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824?theme=dark&bg=06142e&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=||There%20can%20only%20be%20one||)](https://discord.com/users/224320540402253824)
 
 </details>
- 
+
+### **Blacklister**
+- [](<https://blacklister.xyz/>)
+
+### **Dangercord**
+- [](<https://dangercord.com/>)
+
+### **Frostbite Hosting-Services**
+- [](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
+- 
 <!--
 [![MyAnimeList](https://cdn.myanimelist.net/signature/dieantwoord.png)](https://myanimelist.net/animelist/dieantwoord&sclick=1)
 -->
