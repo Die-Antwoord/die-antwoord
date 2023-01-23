@@ -175,7 +175,7 @@
 
 - [Frostbite-Hosting-Services](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
 
-[![MyAnimeList](https://img.shields.io/badge/-anime-000?&logo=anime)](https://myanimelist.net/animelist/dieantwoord)
+[![MyAnimeList](https://img.shields.io/badge/-Anime-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 
 <!--
 x
