@@ -3,100 +3,85 @@
 
 # Die Antwoord
 
-![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)
+---------------
 
-[![GitHub followers](https://img.shields.io/github/followers/Die-Antwoord-000?&logo=GitHub)](https://github.com/Die-Antwoord)
+[![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
+[![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)]()
+
+[![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)]()
 [![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?)](https://discord.gg/aF4Uq4DxdJ)
 
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
 [![Discord](https://img.shields.io/badge/-Dangercord-000?&logo=Discord)](https://dangercord.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)]()
 [![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
 [![Twitch](https://img.shields.io/badge/-Twitch-000?&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/dieantwoordza)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
-[![Replit](https://img.shields.io/badge/-Replit-000?&logo=Replit)](https://replit.com/@Die-Antwoord)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)](https://gitlab.com/die-antwoord)
-[![npmjs](https://img.shields.io/badge/-npmjs-000?&logo=npm)](https://www.npmjs.com/~dieantwoord)
+[![TikTok](https://img.shields.io/badge/-TikTok-000?&logo=tiktok)]()
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?&logo=soundcloud)]()
 [![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 
-### Languages & Technologies
+[![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)]()
+[![Google_chrome](https://img.shields.io/badge/-Google_chrome-000?&logo=Google-chrome)]()
+
+[![Replit](https://img.shields.io/badge/-Replit-000?&logo=Replit)](https://replit.com/@Die-Antwoord)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)](https://gitlab.com/die-antwoord)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)]()
+[![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=codepen)]()
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=bitbucket)]()
+[![npmjs](https://img.shields.io/badge/-npmjs-000?&logo=npm)](https://www.npmjs.com/~dieantwoord)
+[![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-000?&logo=stack-overflow)]()
+
+[![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)]()
+[![Battle.net](https://img.shields.io/badge/-Battle.net-000?&logo=battle.net)]()
+
+[![PayPal](https://img.shields.io/badge/-PayPal-000?&logo=paypal)]()
+
+
+<details>
+ <summary><b>💠 Languages & Technologies</b></summary>
+
+ 🔭 Scoope 🔭
+---------------
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)]()
+[![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)]()
+[![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?&logo=microsoft-sql-server)]()
+[![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?&logo=microsoft-sharepoint)]()
+[![Microsoft_Azure](https://img.shields.io/badge/-microsoft%20azure-000?&logo=microsoft-azure)]()
+
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)]()
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)]()
 [![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-000?&logo=arch-linux)]()
 [![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)]()
 [![Kali_Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=kali-linux)]()
 [![RedHat](https://img.shields.io/badge/-Red%20Hat-000?&logo=redhat)]()
 [![SUSE](https://img.shields.io/badge/-SUSE-000?&logo=SUSE)]()
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)]()
-[![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)]()
-[![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?&logo=microsoft-sql-server)]()
-[![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?&logo=microsoft-sharepoint)]()
-[![Microsoft_Azure](https://img.shields.io/badge/-microsoft%20azure-000?&logo=microsoft-azure)]()
 
-<details>
- <summary><b>💠 My Badges (reodering)</b></summary>
+[![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)]()
+[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)]()
+[![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)]()
 
-[![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
+[![Powershell](https://img.shields.io/badge/-powershell-000?&logo=powershell)]()
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)]()
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)]()
+[![CSS](https://img.shields.io/badge/-CSS-000?&&logo=css3)]()
 
-[![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)]()
-[![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)]()
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode&logoColor=black)]()
-[![Google_chrome](https://img.shields.io/badge/Google_chrome-000?&logo=Google-chrome&logoColor=white)]()
-[![powershell](https://img.shields.io/badge/powershell-000?&logo=powershell&logoColor=white)]()
-[![Replit](https://img.shields.io/badge/replit-000?&logo=replit&logoColor=white)]()
-[![Gimp](https://img.shields.io/badge/gimp-000?&logo=gimp&logoColor=white)]()
-[![Spotify](https://img.shields.io/badge/Spotify-000?&&logo=spotify&logoColor=white)]()
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-000?&logo=soundcloud&logoColor=white)]()
-[![Steam](https://img.shields.io/badge/Steam-000?&logo=steam&logoColor=white)]()
-[![Battle.net](https://img.shields.io/badge/Battle.net-000?&logo=battle.net&logoColor=148EFF)]()
-[![Python](https://img.shields.io/badge/Python-000?&logo=python&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/HTML5-000?&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-000?&logo=css3&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=typescript&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=javascript&logoColor=F7DF1E)]()
-[![Python](https://img.shields.io/badge/Python-000?&logo=python&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-000?&&logo=css3&logoColor=white)]()
-[![Twitch](https://img.shields.io/badge/Twitch-000?&logo=twitch&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-000?&logo=youtube&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/-Medium-000?&logo=medium)]()
+[![RSS](https://img.shields.io/badge/-RSS-000?&logo=rss)]()
+[![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=wordpress)]()
+[![Joomla](https://img.shields.io/badge/-Joomla-000?&logo=joomla)]()
 
-[![Medium](https://img.shields.io/badge/Medium-000?&logo=medium&logoColor=white)]()
-[![RSS](https://img.shields.io/badge/RSS-000?&logo=rss&logoColor=white)]()
-[![Wordpress](https://img.shields.io/badge/Wordpress-000?&logo=wordpress&logoColor=white)]()
-[![Joomla](https://img.shields.io/badge/Joomla-5091CD-000?&logo=joomla&logoColor=white)]()
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C-000?&logo=paypal&logoColor=white)]()
-
-[![Vercel](https://img.shields.io/badge/Vercel-000000-000?&logo=vercel&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B-000?&logo=mongodb&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-005C84-000?&logo=mysql&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-07405E-000?&logo=sqlite&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624-000?&logo=linux&logoColor=black)]()
-[![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1793D1-000?&logo=arch-linux&logoColor=white)]()
-[![Fedora](https://img.shields.io/badge/Fedora-294172-000?&logo=fedora&logoColor=white)]()
-[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94-000?&logo=kali-linux&logoColor=white)]()
-[![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000-000?&logo=redhat&logoColor=white)]()
-[![SUSE](https://img.shields.io/badge/SUSE-0C322C-000?&logo=SUSE&logoColor=white)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420-000?&logo=ubuntu&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6-000?&logo=windows&logoColor=white)]()
-[![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927-000?&logo=microsoft-sql-server&logoColor=white)]()
-[![Microsoft_SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4-000?&logo=microsoft-sharepoint&logoColor=white)]()
-[![Microsoft_Azure](https://img.shields.io/badge/microsoft%20azure-0089D6-000?&logo=microsoft-azure&logoColor=white)]()
-[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91-000?&logo=visual%20studio&logoColor=white)]()
-[![Sublime_Text](https://img.shields.io/badge/sublime_text-000.svg?&&logo=sublime-text&logoColor=important)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-000?&logo=google-cloud&logoColor=white)]()
-
-[![TikTok](https://img.shields.io/badge/TikTok-000?&logo=tiktok&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-000?&logo=twitter&logoColor=white)]()
-[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-000?&logo=stack-overflow&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-000?&logo=reddit&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?&logo=linkedin&logoColor=white)]()
-[![GitLab](https://img.shields.io/badge/GitLab-330F63-000?&logo=gitlab&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000-000?&logo=github&logoColor=white)]()
-[![Codepen](https://img.shields.io/badge/Codepen-000000-000?&logo=codepen&logoColor=white)]()
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6-000?&logo=bitbucket&logoColor=white)]()
+[![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visual%20studio)]()
+[![Sublime_Text](https://img.shields.io/badge/-sublime_text-000?&logo=sublime-text)]()
+[![Gimp](https://img.shields.io/badge/-gimp-000?&logo=gimp)]()
 
 </details>
 
