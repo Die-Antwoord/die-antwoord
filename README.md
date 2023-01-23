@@ -5,6 +5,7 @@
 
 ------------------------------
 
+[![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 [![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
 
@@ -96,7 +97,7 @@
 
 ------------------------------
 
-```css
+```
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
 ⦁ +A 220-602 (IT Technician) Exam No 220-602 
 ⦁ +N (Networking) 
@@ -125,7 +126,7 @@
 
 ------------------------------
  
-```css
+```
 ⦁ SQL Server Databases 
 ⦁ Active Directory Domain Server Infrastructure 
 ⦁ Microsoft Exchange Server 
@@ -175,7 +176,7 @@
 
 - [Frostbite-Hosting-Services](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
 
-[![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
+
 
 <!--
 x
