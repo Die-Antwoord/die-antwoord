@@ -23,13 +23,17 @@
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)]()
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)]()
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]()
-[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://www.npmjs.com/~dieantwoord)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)]()
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]()
-[![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)]()
-[![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)]()
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)]()
+[![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-1793D1-000?&logo=arch-linux)]()
+[![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)]()
+[![Kali_Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=kali-linux)]()
+[![RedHat](https://img.shields.io/badge/-Red%20Hat-000?&logo=redhat)]()
+[![SUSE](https://img.shields.io/badge/-SUSE-000?&logo=SUSE)]()
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)]()
+[![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)]()
+[![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?&logo=microsoft-sql-server)]()
+[![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?&logo=microsoft-sharepoint)]()
+[![Microsoft_Azure](https://img.shields.io/badge/-microsoft%20azure-000?&logo=microsoft-azure)]()
 
 <details>
  <summary><b>💠 My Badges (reodering)</b></summary>
