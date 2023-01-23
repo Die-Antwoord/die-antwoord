@@ -2,7 +2,8 @@
 <image src="./assets/image00.png" alt=Slime-Banner width=1440/>
 
 # Die Antwoord
----------------
+
+------------------------------
 
 [![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
@@ -44,7 +45,8 @@
  <summary><b>💠 Languages & Technologies</b></summary>
 
  🔭 Scoope 🔭
----------------
+
+------------------------------
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)]()
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)]()
@@ -83,14 +85,17 @@
 [![Sublime_Text](https://img.shields.io/badge/-sublime_text-000?&logo=sublime-text)]()
 [![Gimp](https://img.shields.io/badge/-gimp-000?&logo=gimp)]()
 
+------------------------------
+
 </details>
 
 <details>
  <summary><b>💠 My Background and experties</b></summary>
 
  🔭 Qualification and Achievements 🔭
+
 ------------------------------
- 
+
 ```css
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
 ⦁ +A 220-602 (IT Technician) Exam No 220-602 
@@ -108,12 +113,16 @@
 ⦁ CCNA 
 ⦁ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
 ```
+
+------------------------------
+
 </details>
 
 <details>
  <summary><b>💠 Responsibilities and Duties</b></summary>
 
  🔭 Implementation, Configuration Managing and Maintaining Infrastructures 🔭
+
 ------------------------------
  
 ```css
@@ -132,6 +141,9 @@
 ⦁ Backups tapes, drives and online storage 
 ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
+
+------------------------------
+
 </details>
 
 <details>
@@ -151,13 +163,16 @@
 
 </details>
 
-### **Blacklister**
+#### **Blacklister**
+
 - [Blacklister](<https://blacklister.xyz/>)
 
-### **Dangercord**
+#### **Dangercord**
+
 - [Dangercord](<https://dangercord.com/>)
 
-### **Frostbite-Hosting-Services**
+#### **Frostbite-Hosting-Services**
+
 - [Frostbite-Hosting-Services](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
 
 [![MyAnimeList](https://img.shields.io/badge/-anime-000?&logo=anime)](https://myanimelist.net/animelist/dieantwoord)
