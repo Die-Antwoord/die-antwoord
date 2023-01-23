@@ -39,6 +39,7 @@
 
 [![PayPal](https://img.shields.io/badge/-PayPal-000?&logo=paypal)]()
 
+------------------------------
 
 <details>
  <summary><b>💠 Languages & Technologies</b></summary>
@@ -84,8 +85,6 @@
 [![Gimp](https://img.shields.io/badge/-gimp-000?&logo=gimp)]()
 
 </details>
-
-------------------------------
 
 <details>
  <summary><b>💠 My Background and experties</b></summary>
