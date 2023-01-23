@@ -152,14 +152,16 @@
 </details>
 
 ### **Blacklister**
-- [](<https://blacklister.xyz/>)
+- [Blacklister](<https://blacklister.xyz/>)
 
 ### **Dangercord**
-- [](<https://dangercord.com/>)
+- [Dangercord](<https://dangercord.com/>)
 
-### **Frostbite Hosting-Services**
-- [](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
-- 
+### **Frostbite-Hosting-Services**
+- [Frostbite-Hosting-Services](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
+
+[![MyAnimeList](https://img.shields.io/badge/-anime-000?&logo=anime)](https://myanimelist.net/animelist/dieantwoord)
+
 <!--
-[![MyAnimeList](https://cdn.myanimelist.net/signature/dieantwoord.png)](https://myanimelist.net/animelist/dieantwoord)
+x
 -->
