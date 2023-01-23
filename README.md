@@ -4,7 +4,7 @@
 # Die Antwoord
 ---------------
 
-[![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything)](https://discord.gg/aF4Uq4DxdJ)
+[![Ask-me-anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
 
 [![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
@@ -161,5 +161,5 @@
 - [](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
 - 
 <!--
-[![MyAnimeList](https://cdn.myanimelist.net/signature/dieantwoord.png)](https://myanimelist.net/animelist/dieantwoord&sclick=1)
+[![MyAnimeList](https://cdn.myanimelist.net/signature/dieantwoord.png)](https://myanimelist.net/animelist/dieantwoord)
 -->
