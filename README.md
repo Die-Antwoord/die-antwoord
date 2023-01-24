@@ -163,7 +163,9 @@
 
 
 
-[Blacklister](<https://blacklister.xyz/>) [Dangercord](<https://dangercord.com/>) [Frostbite-Hosting-Services](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)[![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824?theme=dark&bg=06142e&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=||There%20can%20only%20be%20one||)](https://discord.com/users/224320540402253824)
+[Blacklister](<https://blacklister.xyz/>) [Dangercord](<https://dangercord.com/>) [Frostbite-Hosting-Services](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824?theme=dark&bg=06142e&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=||There%20can%20only%20be%20one||)](https://discord.com/users/224320540402253824)
 
 
 <!--
