@@ -92,7 +92,7 @@
 <details>
  <summary><b>🏄 My Background and experties</b></summary>
 
- 🎓 Qualification and Achievements 🎓
+<b> 🎓 Qualification and Achievements 🎓 </b>
 
 ------------------------------
 
