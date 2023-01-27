@@ -1,6 +1,8 @@
 
 <image src="./assets/image00.png" alt=Slime-Banner width=1440/>
 
+------------------------------
+
 # 🌠 Die Antwoord
 
 ------------------------------
@@ -44,7 +46,9 @@
 <details>
  <summary><b>🎸 Languages & Technologies</b></summary>
 
- 🌠 Scoope 🌠
+------------------------------
+
+ 🌠 Scope 🌠
 
 ------------------------------
 
@@ -152,6 +156,10 @@
 
 <details>
  <summary><b>💻 GitHub Profile Stats</b></summary>
+
+------------------------------
+
+ 🛡 Stats 🛡
 
 ------------------------------
  
