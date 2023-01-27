@@ -94,8 +94,9 @@
 
 ------------------------------
 
-<a> 🎓 Qualification and Achievements 🎓 </a>
+ 🎓 Qualification and Achievements 🎓
 
+------------------------------
 
 ```
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
@@ -121,6 +122,8 @@
 
 <details>
  <summary><b>🌟 Responsibilities and Duties</b></summary>
+
+------------------------------
 
  🧠 Implementation, Configuration Managing and Maintaining Infrastructures 🧠
 
