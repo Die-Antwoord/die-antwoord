@@ -1,7 +1,7 @@
 
 <image src="./assets/image00.png" alt=Slime-Banner width=1440/>
 
-# Die Antwoord
+# 🌠 Die Antwoord
 
 ------------------------------
 
@@ -42,9 +42,9 @@
 ------------------------------
 
 <details>
- <summary><b>💠 Languages & Technologies</b></summary>
+ <summary><b>🎸 Languages & Technologies</b></summary>
 
- 🔭 Scoope 🔭
+ 🌠 Scoope 🌠
 
 ------------------------------
 
@@ -90,9 +90,9 @@
 </details>
 
 <details>
- <summary><b>💠 My Background and experties</b></summary>
+ <summary><b>🏄 My Background and experties</b></summary>
 
- 🔭 Qualification and Achievements 🔭
+ 🎓 Qualification and Achievements 🎓
 
 ------------------------------
 
@@ -119,9 +119,9 @@
 </details>
 
 <details>
- <summary><b>💠 Responsibilities and Duties</b></summary>
+ <summary><b>🌟 Responsibilities and Duties</b></summary>
 
- 🔭 Implementation, Configuration Managing and Maintaining Infrastructures 🔭
+ 🧠 Implementation, Configuration Managing and Maintaining Infrastructures 🧠
 
 ------------------------------
  
@@ -147,7 +147,7 @@
 </details>
 
 <details>
- <summary><b>💠 GitHub Profile Stats</b></summary>
+ <summary><b>💻 GitHub Profile Stats</b></summary>
 
 ------------------------------
  
