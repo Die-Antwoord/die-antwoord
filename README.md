@@ -92,9 +92,10 @@
 <details>
  <summary><b>🏄 My Background and experties</b></summary>
 
+------------------------------
+
 <a> 🎓 Qualification and Achievements 🎓 </a>
 
-------------------------------
 
 ```
 ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
