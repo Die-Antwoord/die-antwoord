@@ -5,7 +5,6 @@
 
 # 🌠 Die Antwoord
 
-------------------------------
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademola-akinsola-3191571a2/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
@@ -14,7 +13,7 @@
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge)](https://github.com/Die-Antwoord)
 
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
-[![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-1a56bc.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
+[![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
 
 ## Socials and Other Media
 
@@ -36,9 +35,6 @@
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
 [![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
-
-[![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?style=for-the-badge&logo=google-cloud)](https://github.com/Die-Antwoord)
-[![Google_chrome](https://img.shields.io/badge/-Google_Chrome-000?style=for-the-badge&logo=Google-chrome)](https://github.com/Die-Antwoord)
 
 [![Replit](https://img.shields.io/badge/-Replit-000?style=for-the-badge&logo=Replit)](https://replit.com/@Die-Antwoord)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
@@ -102,6 +98,8 @@
 [![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)]()
 [![Joomla](https://img.shields.io/badge/-Joomla-000?style=for-the-badge&logo=joomla)]()
 [![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&logo=drupal)]()
+[![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?style=for-the-badge&logo=google-cloud)](https://github.com/Die-Antwoord)
+[![Google_chrome](https://img.shields.io/badge/-Google_Chrome-000?style=for-the-badge&logo=Google-chrome)](https://github.com/Die-Antwoord)
 
 </details>
 
