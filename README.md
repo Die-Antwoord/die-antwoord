@@ -44,13 +44,9 @@
 ------------------------------
 
 <details>
- <summary><b>🎸 Languages & Technologies</b></summary>
+ <summary><b>🎸 Languages, Frameworks & Libraries</b></summary>
 
-------------------------------
-
- 🌠 Scope 🌠
-
-------------------------------
+ 🌠 Applications & Tools 🌠
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)]()
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)]()
@@ -80,44 +76,38 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)]()
 [![CSS](https://img.shields.io/badge/-CSS-000?&&logo=css3)]()
 
+[![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visual%20studio)]()
+[![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?&logo=sublime-text)]()
+[![Gimp](https://img.shields.io/badge/-Gimp-000?&logo=gimp)]()
+ 
 [![Medium](https://img.shields.io/badge/-Medium-000?&logo=medium)]()
 [![RSS](https://img.shields.io/badge/-RSS-000?&logo=rss)]()
 [![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=wordpress)]()
 [![Joomla](https://img.shields.io/badge/-Joomla-000?&logo=joomla)]()
-
-[![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visual%20studio)]()
-[![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?&logo=sublime-text)]()
-[![Gimp](https://img.shields.io/badge/-Gimp-000?&logo=gimp)]()
-
-------------------------------
 
 </details>
 
 <details>
  <summary><b>🏄 My Background and experties</b></summary>
 
-------------------------------
+ 🎓 *Qualification and Achievements* 🎓
 
- 🎓 Qualification and Achievements 🎓
-
-------------------------------
-
-```
-⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
-⦁ +A 220-602 (IT Technician) Exam No 220-602 
-⦁ +N (Networking) 
-⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
-⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
-⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
-⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
-⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
-⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-⦁ MCSE:70-228 (SQL Server 2000 Administration) 
-⦁ CCNA 
-⦁ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
+```diff
++ +A 220-601 (Hardware and Software) Exam No 220-601 
++ +A 220-602 (IT Technician) Exam No 220-602 
++ +N (Networking) 
++ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
++ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
++ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
++ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
++ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
++ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
++ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
++ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
++ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
++ MCSE:70-228 (SQL Server 2000 Administration) 
++ CCNA 
++ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
 ```
 
 ------------------------------
@@ -127,47 +117,35 @@
 <details>
  <summary><b>🌟 Responsibilities and Duties</b></summary>
 
-------------------------------
+ 🧠 **Implementation, Configuration Managing and Maintaining Infrastructures** 🧠
 
- 🧠 Implementation, Configuration Managing and Maintaining Infrastructures 🧠
-
-------------------------------
- 
+```diff
++ SQL Server Databases 
++ Active Directory Domain Server Infrastructure 
++ Microsoft Exchange Server 
++ Microsoft SQL 
++ Virtualized Server (VMware, HyperV) 
++ Microsoft HyperV Cluster Server 
++ Windows Update Server 
++ Windows Desktop Application (Deplotment, Backups) 
++ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
++ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
++ DNS, IIS and 3de party hosted services 
++ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
++ Backups tapes, drives and online storage 
++ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 ```
-⦁ SQL Server Databases 
-⦁ Active Directory Domain Server Infrastructure 
-⦁ Microsoft Exchange Server 
-⦁ Microsoft SQL 
-⦁ Virtualized Server (VMware, HyperV) 
-⦁ Microsoft HyperV Cluster Server 
-⦁ Windows Update Server 
-⦁ Windows Desktop Application (Deplotment, Backups) 
-⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
-⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
-⦁ DNS, IIS and 3de party hosted services 
-⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
-⦁ Backups tapes, drives and online storage 
-⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
-```
-
-------------------------------
 
 </details>
 
 <details>
  <summary><b>💻 GitHub Profile Stats</b></summary>
 
-------------------------------
+ [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
- 🛡 Stats 🛡
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
 
-------------------------------
- 
-[![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
-
-[![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
+ [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
 ------------------------------
 
