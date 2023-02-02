@@ -10,10 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademola-akinsola-3191571a2/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
 -->
-[![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
-[![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
-[![Ask-me-anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
-[![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
+[![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
+[![Visits](https://komarev.com/ghpvc?username=Die-Antwoord?style=for-the-badge)](https://github.com/Die-Antwoord)
+
+[![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
+[![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 
 ## Socials and Other Media
 
@@ -61,7 +62,7 @@
  <summary><b>Applications & Tools 🛠</b></summary>
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft&logoColor=darkblue)]()
-[![Microsoft_Server](https://img.shields.io/badge/-Microsoft_Server-000?style=for-the-badge&logo=Microsoft-Server&logoColor=purple)]()
+[![Microsoft_Server](https://img.shields.io/badge/-Microsoft_Server-000?style=for-the-badge&logo=microsoft-server&logoColor=purple)]()
 [![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows&logoColor=blue)]()
 [![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)]()
 [![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint&logoColor=blue)]()
