@@ -57,11 +57,11 @@
 <details>
  <summary><b>Applications & Tools 🛠</b></summary>
 
-[![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft)]()
-[![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)]()
-[![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server)]()
-[![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint)]()
-[![Microsoft_Azure](https://img.shields.io/badge/-Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure)]()
+[![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft&logoColor=darkblue)]()
+[![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows&logoColor=blue)]()
+[![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)]()
+[![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint&logoColor=blue)]()
+[![Microsoft_Azure](https://img.shields.io/badge/-Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=blue)]()
 
 [![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)]()
 [![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-000?style=for-the-badge&logo=arch-linux)]()
