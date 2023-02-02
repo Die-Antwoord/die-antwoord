@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
 -->
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
-[![Visits](https://komarev.com/ghpvc?username=Die-Antwoord?style=for-the-badge)](https://github.com/Die-Antwoord)
+[![Visits](https://komarev.com/ghpvc?style=for-the-badge?username=Die-Antwoord)](https://github.com/Die-Antwoord)
 
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
