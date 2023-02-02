@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
 -->
 
-![GitHub-Profile-Stats](https://hit.yhype.me/github/profile/user_id=94087113)
+![GitHubStats](https://hit.yhype.me/github/profile?user_id=94087113)
 
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge)](https://github.com/Die-Antwoord)
