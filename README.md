@@ -14,7 +14,7 @@
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge)](https://github.com/Die-Antwoord)
 
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
-[![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
+[![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 
 ## Socials and Other Media
 
