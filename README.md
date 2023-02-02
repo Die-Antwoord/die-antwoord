@@ -32,6 +32,7 @@
 [![TikTok](https://img.shields.io/badge/-TikTok-000?&logo=tiktok)](https://www.tiktok.com/@die_antwoord_wkj)
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
 [![Spotify](https://img.shields.io/badge/-Spotify-000?&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
+[![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
 
 [![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)](https://github.com/Die-Antwoord)
 [![Google_chrome](https://img.shields.io/badge/-Google_Chrome-000?&logo=Google-chrome)](https://github.com/Die-Antwoord)
@@ -88,10 +89,10 @@
 [![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio)]()
 [![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)]()
 [![Gimp](https://img.shields.io/badge/-Gimp-000?style=for-the-badge&logo=gimp)]()
-[![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=ps)]()
+[![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=photoshop)]()
 
 [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)]()
-[![RSS](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
+
 [![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)]()
 [![Joomla](https://img.shields.io/badge/-Joomla-000?style=for-the-badge&logo=joomla)]()
 [![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&logo=drupal)]()
