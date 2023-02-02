@@ -20,16 +20,18 @@
 <details>
  <summary><b>Links and Details 🎙</b></summary>
 
-[![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
-[![Discord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)]()
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
+[![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
+[![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)](https://blacklister.xyz/)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)]()
 [![Reddit](https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
 [![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)](https://twitter.com/dieantwoordza)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
-[![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@die_antwoord_wkj)
+[![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok&logoColor=purple)](https://www.tiktok.com/@die_antwoord_wkj)
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
 [![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
@@ -48,6 +50,7 @@
 [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam)]()
 [![Battle.net](https://img.shields.io/badge/-Battle.net-000?style=for-the-badge&logo=battle.net)]()
 
+[![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 [![PayPal](https://img.shields.io/badge/-PayPal-000?style=for-the-badge&logo=paypal)]()
 
 </details>
@@ -58,6 +61,7 @@
  <summary><b>Applications & Tools 🛠</b></summary>
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft&logoColor=darkblue)]()
+[![Microsoft_Server](https://img.shields.io/badge/-Microsoft_Server-000?style=for-the-badge&logo=Microsoft-Server&logoColor=purple)]()
 [![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows&logoColor=blue)]()
 [![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)]()
 [![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint&logoColor=blue)]()
