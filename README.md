@@ -92,6 +92,7 @@
 [![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=adobephotoshop)]()
 
 [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)]()
+[![GitBook](https://img.shields.io/badge/-GitBook-000?style=for-the-badge&logo=gitbook)]()
 
 [![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)]()
 [![Joomla](https://img.shields.io/badge/-Joomla-000?style=for-the-badge&logo=joomla)]()
