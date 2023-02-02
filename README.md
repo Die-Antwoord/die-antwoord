@@ -89,7 +89,7 @@
 [![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio)]()
 [![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)]()
 [![Gimp](https://img.shields.io/badge/-Gimp-000?style=for-the-badge&logo=gimp)]()
-[![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=photoshop)]()
+[![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=adobephotoshop)]()
 
 [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)]()
 
