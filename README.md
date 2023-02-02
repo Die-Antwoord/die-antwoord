@@ -28,7 +28,7 @@
 [![Reddit](https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
 [![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)](https://twitter.com/dieantwoordza)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
 [![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@die_antwoord_wkj)
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
 [![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
