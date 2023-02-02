@@ -6,11 +6,17 @@
 # 🌠 Die Antwoord
 
 ------------------------------
-
+<!--
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademola-akinsola-3191571a2/)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
+-->
 [![GitHub](https://img.shields.io/github/followers/Die-Antwoord.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 [![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-me-anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
+
+<details>
+ <summary><b># Socials and Other Media</b></summary>
 
 [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
@@ -41,7 +47,7 @@
 
 [![PayPal](https://img.shields.io/badge/-PayPal-000?&logo=paypal)]()
 
-------------------------------
+</details>
 
 <details>
  <summary><b>🎸 Languages, Frameworks & Libraries</b></summary>
@@ -74,7 +80,8 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)]()
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)]()
-[![CSS](https://img.shields.io/badge/-CSS-000?&&logo=css3)]()
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)]()
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 
 [![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visual%20studio)]()
 [![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?&logo=sublime-text)]()
@@ -88,9 +95,9 @@
 </details>
 
 <details>
- <summary><b>🏄 My Background and experties</b></summary>
+ <summary><b># My Background and experties</b></summary>
 
- 🎓 *Qualification and Achievements* 🎓
+ 🎓 __*Qualification and Achievements*__ 🎓
 
 ```diff
 + +A 220-601 (Hardware and Software) Exam No 220-601 
@@ -109,8 +116,6 @@
 + CCNA 
 + Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
 ```
-
-------------------------------
 
 </details>
 
@@ -147,7 +152,6 @@
 
  [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
-------------------------------
 
 </details>
 
