@@ -58,10 +58,10 @@
  <summary><b>Applications & Tools 🛠</b></summary>
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft&logoColor=darkblue)]()
-[![Microsoft_Server](https://img.shields.io/badge/-Microsoft_Server-000?style=for-the-badge&logo=windowsterminal&logoColor=purple)]()
-[![Windows-11](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows11&logoColor=blue)]()
-[![Windows-XP](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windowsxp&logoColor=red)]()
-[![Windows-95](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows95&logoColor=lightblue)]()
+[![Microsoft_Server](https://img.shields.io/badge/-Microsoft_Server-000?style=for-the-badge&logo=windowsterminal)]()
+[![Windows-11](https://img.shields.io/badge/-Windows-11-000?style=for-the-badge&logo=windows11&logoColor=blue)]()
+[![Windows-XP](https://img.shields.io/badge/-Windows-XP-000?style=for-the-badge&logo=windowsxp&logoColor=red)]()
+[![Windows-95](https://img.shields.io/badge/-Windows-95-000?style=for-the-badge&logo=windows95&logoColor=lightblue)]()
 [![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)]()
 [![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint&logoColor=blue)]()
 [![Microsoft_Azure](https://img.shields.io/badge/-Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=blue)]()
