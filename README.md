@@ -15,8 +15,10 @@
 [![Ask-me-anything](https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg)](https://discord.gg/aF4Uq4DxdJ)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord)](https://github.com/Die-Antwoord)
 
+## Socials and Other Media
+
 <details>
- <summary><b># Socials and Other Media</b></summary>
+ <summary><b>Links and Details 🎙</b></summary>
 
 [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
@@ -49,10 +51,10 @@
 
 </details>
 
-<details>
- <summary><b>🎸 Languages, Frameworks & Libraries</b></summary>
+## Languages, Frameworks & Libraries
 
- 🌠 Applications & Tools 🌠
+<details>
+ <summary><b>Applications & Tools 🛠</b></summary>
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)]()
 [![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)]()
@@ -83,21 +85,23 @@
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 
-[![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visual%20studio)]()
-[![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?&logo=sublime-text)]()
-[![Gimp](https://img.shields.io/badge/-Gimp-000?&logo=gimp)]()
- 
-[![Medium](https://img.shields.io/badge/-Medium-000?&logo=medium)]()
-[![RSS](https://img.shields.io/badge/-RSS-000?&logo=rss)]()
-[![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=wordpress)]()
-[![Joomla](https://img.shields.io/badge/-Joomla-000?&logo=joomla)]()
+[![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio)]()
+[![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)]()
+[![Gimp](https://img.shields.io/badge/-Gimp-000?style=for-the-badge&logo=gimp)]()
+[![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=ps)]()
+
+[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)]()
+[![RSS](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
+[![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)]()
+[![Joomla](https://img.shields.io/badge/-Joomla-000?style=for-the-badge&logo=joomla)]()
+[![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&logo=drupal)]()
 
 </details>
 
-<details>
- <summary><b># My Background and experties</b></summary>
+## My Background and Experties
 
- 🎓 __*Qualification and Achievements*__ 🎓
+<details>
+ <summary><b>Qualification and Achievements</b></summary>
 
 ```diff
 + +A 220-601 (Hardware and Software) Exam No 220-601 
@@ -119,10 +123,10 @@
 
 </details>
 
-<details>
- <summary><b>🌟 Responsibilities and Duties</b></summary>
+## Responsibilities and Duties
 
- 🧠 **Implementation, Configuration Managing and Maintaining Infrastructures** 🧠
+<details>
+ <summary><b>Implementation, Configuration, Managing and Maintaining Infrastructures</b></summary>
 
 ```diff
 + SQL Server Databases 
@@ -144,14 +148,13 @@
 </details>
 
 <details>
- <summary><b>💻 GitHub Profile Stats</b></summary>
+ <summary><b>GITHUB Stats</b></summary>
 
  [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
 
  [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
-
 
 </details>
 
