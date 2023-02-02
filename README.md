@@ -13,7 +13,7 @@
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge)](https://github.com/Die-Antwoord)
 
-[![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
+[![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence-1a56bc.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-1a56bc.svg?style=for-the-badge)](https://discord.gg/aF4Uq4DxdJ)
 
 ## Socials and Other Media
