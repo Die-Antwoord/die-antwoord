@@ -113,22 +113,22 @@
 <details>
  <summary><b>Qualification and Achievements</b></summary>
 
-    "
-+ +A 220-601 (Hardware and Software) Exam No 220-601 
-+ +A 220-602 (IT Technician) Exam No 220-602 
-+ +N (Networking) 
-+ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
-+ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
-+ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-+ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-+ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
-+ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
-+ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
-+ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-+ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-+ MCSE:70-228 (SQL Server 2000 Administration) 
-+ CCNA 
-- + Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
+    ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
+    ⦁ +A 220-602 (IT Technician) Exam No 220-602 
+    ⦁ +N (Networking) 
+    ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
+    ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
+    ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
+    ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
+    ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
+    ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
+    ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
+    ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
+    ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
+    ⦁ MCSE:70-228 (SQL Server 2000 Administration) 
+    ⦁ CCNA 
+    ⦁ Linux Server (Ubuntu, Kali) 
+    ⦁ ICDL, ITIL
 
 
 </details>
