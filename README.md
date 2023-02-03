@@ -24,7 +24,7 @@
 
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
-[![Frostbite-Hosting-Services](https://img.shields.io/badge/-Frostbite_Hosting_Services-000?&logo=Discord)](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
+[![Frostbite-Hosting-Services](https://img.shields.io/badge/-Frostbite_Hosting_Services-000?&style=for-the-badge&logo=Discord)](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
 
 ## Socials and Other Media
 
@@ -193,7 +193,6 @@
 <details>
  <summary><b>GITHUB Stats</b></summary>
 
-    
  
  [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
