@@ -24,8 +24,8 @@
  <summary><b>Links and Details 🎙</b></summary>
 
 
-> [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
->> [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
+[![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
 [![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)](https://blacklister.xyz/)
 
 
@@ -113,7 +113,7 @@
 <details>
  <summary><b>Qualification and Achievements</b></summary>
 
-```diff
+    "
 + +A 220-601 (Hardware and Software) Exam No 220-601 
 + +A 220-602 (IT Technician) Exam No 220-602 
 + +N (Networking) 
@@ -128,15 +128,15 @@
 + MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
 + MCSE:70-228 (SQL Server 2000 Administration) 
 + CCNA 
-+ Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
-```
+- + Linux Server (Ubuntu, Kali) ⦁ ICDL, ITIL
+
 
 </details>
 
-## Responsibilities and Duties
+## Responsibilities & Duties
 
 <details>
- <summary><b>Implementation, Configuration, Managing and Maintaining Infrastructures</b></summary>
+ <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
 
 ```diff
 + SQL Server Databases 
