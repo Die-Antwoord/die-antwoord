@@ -1,20 +1,21 @@
 
+<!--
 <image src="./assets/image00.png" alt=Slime-Banner width=1000/>
 
-------------------------------
-
-# 🌠 Die Antwoord
-
-<!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademola-akinsola-3191571a2/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/image00.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/image00.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="assets/image00.png">
 </picture>
+
+------------------------------
+
+# 🌠 Die Antwoord
+
 
 ![](https://hit.yhype.me/github/profile?user_id=94087113)
 
@@ -31,34 +32,34 @@
  <summary><b>Links and Details 🎙</b></summary>
 
 
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
-[![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
-[![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)](https://blacklister.xyz/)
+> [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
+> [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
+> [![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)](https://blacklister.xyz/)
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)]()
-[![Reddit](https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
-[![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)](https://twitter.com/dieantwoordza)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
-[![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok&logoColor=purple)](https://www.tiktok.com/@die_antwoord_wkj)
-[![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
-[![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
-[![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)]()
+> [![Reddit](https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
+> [![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
+> [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)](https://twitter.com/dieantwoordza)
+> [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/channel/UCnl7cWx6PVdIelry9YBFxXA)
+> [![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok&logoColor=purple)](https://www.tiktok.com/@die_antwoord_wkj)
+> [![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
+> [![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
+> [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
 
-[![Replit](https://img.shields.io/badge/-Replit-000?style=for-the-badge&logo=Replit)](https://replit.com/@Die-Antwoord)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/Die-Antwoord/)
-[![Codepen](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen)](https://codepen.io/Die-Antwoord)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/dieantwoord1)
-[![npmjs](https://img.shields.io/badge/-npmjs-000?style=for-the-badge&logo=npm)](https://www.npmjs.com/~dieantwoord)
-[![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/20395182/die-antwoord)
+> [![Replit](https://img.shields.io/badge/-Replit-000?style=for-the-badge&logo=Replit)](https://replit.com/@Die-Antwoord)
+> [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
+> [![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/Die-Antwoord/)
+> [![Codepen](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen)](https://codepen.io/Die-Antwoord)
+> [![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/dieantwoord1)
+> [![npmjs](https://img.shields.io/badge/-npmjs-000?style=for-the-badge&logo=npm)](https://www.npmjs.com/~dieantwoord)
+> [![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/20395182/die-antwoord)
 
-[![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam)]()
-[![Battle.net](https://img.shields.io/badge/-Battle.net-000?style=for-the-badge&logo=battle.net)]()
+> [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam)]()
+> [![Battle.net](https://img.shields.io/badge/-Battle.net-000?style=for-the-badge&logo=battle.net)]()
 
-[![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
-[![PayPal](https://img.shields.io/badge/-PayPal-000?style=for-the-badge&logo=paypal)]()
+> [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
+> [![PayPal](https://img.shields.io/badge/-PayPal-000?style=for-the-badge&logo=paypal)]()
 
 </details>
 
@@ -120,22 +121,22 @@
 <details>
  <summary><b>Qualification & Achievements</b></summary>
 
-    ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
-    ⦁ +A 220-602 (IT Technician) Exam No 220-602 
-    ⦁ +N (Networking) 
-    ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
-    ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
-    ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-    ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-    ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
-    ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
-    ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
-    ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-    ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-    ⦁ MCSE:70-228 (SQL Server 2000 Administration) 
-    ⦁ CCNA 
-    ⦁ Linux Server (Ubuntu, Kali) 
-    ⦁ ICDL, ITIL
+> ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
+> ⦁ +A 220-602 (IT Technician) Exam No 220-602 
+> ⦁ +N (Networking) 
+> ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
+> ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
+> ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
+> ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
+> ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
+> ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
+> ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
+> ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
+> ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
+> ⦁ MCSE:70-228 (SQL Server 2000 Administration) 
+> ⦁ CCNA 
+> ⦁ Linux Server (Ubuntu, Kali) 
+> ⦁ ICDL, ITIL
 
 </details>
 
@@ -144,20 +145,20 @@
 <details>
  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
 
-    ⦁ SQL Server Databases 
-    ⦁ Active Directory Domain Server Infrastructure 
-    ⦁ Microsoft Exchange Server 
-    ⦁ Microsoft SQL 
-    ⦁ Virtualized Server (VMware, HyperV) 
-    ⦁ Microsoft HyperV Cluster Server 
-    ⦁ Windows Update Server 
-    ⦁ Windows Desktop Application (Deplotment, Backups) 
-    ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
-    ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
-    ⦁ DNS, IIS and 3de party hosted services 
-    ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
-    ⦁ Backups tapes, drives and online storage 
-    ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
+> ⦁ SQL Server Databases 
+> ⦁ Active Directory Domain Server Infrastructure 
+> ⦁ Microsoft Exchange Server 
+> ⦁ Microsoft SQL 
+> ⦁ Virtualized Server (VMware, HyperV) 
+> ⦁ Microsoft HyperV Cluster Server 
+> ⦁ Windows Update Server 
+> ⦁ Windows Desktop Application (Deplotment, Backups) 
+> ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
+> ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
+> ⦁ DNS, IIS and 3de party hosted services 
+> ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
+> ⦁ Backups tapes, drives and online storage 
+> ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 
 </details>
 
@@ -172,8 +173,8 @@
 
 </details>
 
-[![Dangercord](https://img.shields.io/badge/-Dangercord-000?&logo=Discord)](<https://dangercord.com>)
-[![Blacklister](https://img.shields.io/badge/-Blacklister-000?&logo=Discord)](<https://blacklister.xyz/>)
+> [![Dangercord](https://img.shields.io/badge/-Dangercord-000?&logo=Discord)](<https://dangercord.com>)
+> [![Blacklister](https://img.shields.io/badge/-Blacklister-000?&logo=Discord)](<https://blacklister.xyz/>)
 
 
 <!--
