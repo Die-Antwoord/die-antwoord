@@ -17,7 +17,12 @@
 
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
+[![Frostbite-Hosting-Services](https://img.shields.io/badge/-Frostbite_Hosting_Services-000?&logo=Discord)](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
 
+
+
+
+    
 ## Socials and Other Media
 
 <details>
@@ -108,10 +113,10 @@
 
 </details>
 
-## My Background and Experties
+## My Background & Experties
 
 <details>
- <summary><b>Qualification and Achievements</b></summary>
+ <summary><b>Qualification & Achievements</b></summary>
 
     ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
     ⦁ +A 220-602 (IT Technician) Exam No 220-602 
@@ -130,7 +135,6 @@
     ⦁ Linux Server (Ubuntu, Kali) 
     ⦁ ICDL, ITIL
 
-
 </details>
 
 ## Responsibilities & Duties
@@ -138,22 +142,20 @@
 <details>
  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
 
-```diff
-+ SQL Server Databases 
-+ Active Directory Domain Server Infrastructure 
-+ Microsoft Exchange Server 
-+ Microsoft SQL 
-+ Virtualized Server (VMware, HyperV) 
-+ Microsoft HyperV Cluster Server 
-+ Windows Update Server 
-+ Windows Desktop Application (Deplotment, Backups) 
-+ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
-+ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
-+ DNS, IIS and 3de party hosted services 
-+ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
-+ Backups tapes, drives and online storage 
-+ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
-```
+    ⦁ SQL Server Databases 
+    ⦁ Active Directory Domain Server Infrastructure 
+    ⦁ Microsoft Exchange Server 
+    ⦁ Microsoft SQL 
+    ⦁ Virtualized Server (VMware, HyperV) 
+    ⦁ Microsoft HyperV Cluster Server 
+    ⦁ Windows Update Server 
+    ⦁ Windows Desktop Application (Deplotment, Backups) 
+    ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
+    ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
+    ⦁ DNS, IIS and 3de party hosted services 
+    ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
+    ⦁ Backups tapes, drives and online storage 
+    ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 
 </details>
 
@@ -170,7 +172,7 @@
 
 [![Dangercord](https://img.shields.io/badge/-Dangercord-000?&logo=Discord)](<https://dangercord.com>)
 [![Blacklister](https://img.shields.io/badge/-Blacklister-000?&logo=Discord)](<https://blacklister.xyz/>)
-[![Frostbite-Hosting-Services](https://img.shields.io/badge/-Frostbite_Hosting_Services-000?&logo=Discord)](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
+
 
 <!--
 [![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824?theme=dark&bg=06142e&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=||There%20can%20only%20be%20one||)](https://discord.com/users/224320540402253824)
