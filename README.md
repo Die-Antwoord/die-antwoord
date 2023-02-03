@@ -72,8 +72,8 @@
 > [![Windows-95](https://img.shields.io/badge/-Windows_95-000?style=for-the-badge&logo=windows95&logoColor=lightblue)]()
 
 > [![Microsoft_Server](https://img.shields.io/badge/-Microsoft_Server-000?style=for-the-badge&logo=windowsterminal)]()
-> [![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&> logoColor=yellow)]()
-> [![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint&> logoColor=blue)]()
+> [![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)]()
+> [![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint&logoColor=blue)]()
 > [![Microsoft_Azure](https://img.shields.io/badge/-Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=blue)]()
 
 > [![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)]()
@@ -92,7 +92,7 @@
 > [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)]()
 > [![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)]()
 > [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)]()
-> [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+> [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=yellow)]()
 > [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)]()
 > [![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)]()
 > [![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)]()
