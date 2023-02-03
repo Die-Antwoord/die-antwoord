@@ -1,5 +1,5 @@
 
-<image src="./assets/image00.png" alt=Slime-Banner width=1440/>
+<image src="./assets/image00.png" alt=Slime-Banner width=1000/>
 
 ------------------------------
 
@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
 -->
 
-![GitHubStats](https://hit.yhype.me/github/profile?user_id=94087113)
+![](https://hit.yhype.me/github/profile?user_id=94087113)
 
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge)](https://github.com/Die-Antwoord)
@@ -25,8 +25,8 @@
 
 
 > [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
-> [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
-> [![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)](https://blacklister.xyz/)
+>> [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
+[![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)](https://blacklister.xyz/)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)]()
