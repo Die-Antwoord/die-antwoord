@@ -10,6 +10,12 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 ![](https://hit.yhype.me/github/profile?user_id=94087113)
 
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
@@ -19,10 +25,6 @@
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
 [![Frostbite-Hosting-Services](https://img.shields.io/badge/-Frostbite_Hosting_Services-000?&logo=Discord)](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
 
-
-
-
-    
 ## Socials and Other Media
 
 <details>
