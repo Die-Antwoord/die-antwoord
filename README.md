@@ -165,16 +165,27 @@
 > ⦁ Active Directory Domain Server Infrastructure 
 
 > ⦁ Microsoft Exchange Server 
+
 > ⦁ Microsoft SQL 
-> ⦁ Virtualized Server (VMware, HyperV) 
+
+> ⦁ Virtualized Server (VMware, Esxi, HyperV) 
+
 > ⦁ Microsoft HyperV Cluster Server 
+
 > ⦁ Windows Update Server 
+
 > ⦁ Windows Desktop Application (Deplotment, Backups) 
+
 > ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
+
 > ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
+
 > ⦁ DNS, IIS and 3de party hosted services 
+
 > ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
+
 > ⦁ Backups tapes, drives and online storage 
+
 > ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 
 </details>
@@ -182,6 +193,8 @@
 <details>
  <summary><b>GITHUB Stats</b></summary>
 
+    
+ 
  [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
