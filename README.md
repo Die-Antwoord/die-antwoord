@@ -7,8 +7,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/image00.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/image00.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/slime-sword-crop-WNAME3.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/slime-sword-crop-WNAME3.png">
   <img alt="Slime-Banner" src="assets/slime-sword-crop-WNAME3.png" width=1000/>
 </picture>
 
