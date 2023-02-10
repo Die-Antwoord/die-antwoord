@@ -1,18 +1,10 @@
 
-<!--
-<image src="./assets/image00.png" alt=Slime-Banner width=1000/>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademola-akinsola-3191571a2/)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
--->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/slime-sword-crop-WNAME3.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/slime-sword-crop-WNAME3.png">
   <img alt="Slime-Banner" src="assets/slime-sword-crop-WNAME3.png" width=1000/>
 </picture>
 
-![](https://hit.yhype.me/github/profile?user_id=94087113)
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github)](https://github.com/Die-Antwoord)
 [![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
@@ -79,7 +71,7 @@
 > [![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-000?style=for-the-badge&logo=arch-linux)]()
 > [![Fedora](https://img.shields.io/badge/-Fedora-000?style=for-the-badge&logo=fedora)]()
 > [![Kali_Linux](https://img.shields.io/badge/-Kali_Linux-000?style=for-the-badge&logo=kali-linux)]()
-> [![RedHat](https://img.shields.io/badge/-Red%20Hat-000?style=for-the-badge&logo=redhat)]()
+> [![RedHat](https://img.shields.io/badge/-Red_Hat-000?style=for-the-badge&logo=redhat)]()
 > [![SUSE](https://img.shields.io/badge/-SUSE-000?style=for-the-badge&logo=SUSE)]()
 > [![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)]()
 > [![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)]()
@@ -111,37 +103,22 @@
 <details>
  <summary><b>Qualification & Achievements</b></summary>
 
-> ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
-
-> ⦁ +A 220-602 (IT Technician) Exam No 220-602 
-
-> ⦁ +N (Networking) 
-
-> ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
-
-> ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
-
-> ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-
-> ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-
-> ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
-
-> ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
-
-> ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
-
-> ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
-
-> ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
-
-> ⦁ MCSE:70-228 (SQL Server 2000 Administration) 
-
-> ⦁ CCNA 
-
-> ⦁ Linux Server (Ubuntu, Kali) 
-
-> ⦁ ICDL, ITIL
+    ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
+    ⦁ +A 220-602 (IT Technician) Exam No 220-602 
+    ⦁ +N (Networking) 
+    ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
+    ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
+    ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
+    ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
+    ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
+    ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
+    ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
+    ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
+    ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
+    ⦁ MCSE:70-228 (SQL Server 2000 Administration) 
+    ⦁ CCNA 
+    ⦁ Linux Server (Ubuntu, Kali) 
+    ⦁ ICDL, ITIL
 
 </details>
 
@@ -150,41 +127,25 @@
 <details>
  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
 
-> ⦁ SQL Server Databases 
-
-> ⦁ Active Directory Domain Server Infrastructure 
-
-> ⦁ Microsoft Exchange Server 
-
-> ⦁ Microsoft SQL 
-
-> ⦁ Virtualized Server (VMware, Esxi, HyperV) 
-
-> ⦁ Microsoft HyperV Cluster Server 
-
-> ⦁ Windows Update Server 
-
-> ⦁ Windows Desktop Application (Deplotment, Backups) 
-
-> ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
-
-> ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
-
-> ⦁ DNS, IIS and 3de party hosted services 
-
-> ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
-
-> ⦁ Backups tapes, drives and online storage 
-
-> ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
+    ⦁ SQL Server Databases 
+    ⦁ Active Directory Domain Server Infrastructure 
+    ⦁ Microsoft Exchange Server 
+    ⦁ Microsoft SQL 
+    ⦁ Virtualized Server (VMware, Esxi, HyperV) 
+    ⦁ Microsoft HyperV Cluster Server 
+    ⦁ Windows Update Server 
+    ⦁ Windows Desktop Application (Deplotment, Backups) 
+    ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
+    ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
+    ⦁ DNS, IIS and 3de party hosted services 
+    ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
+    ⦁ Backups tapes, drives and online storage 
+    ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 
   </details>
 
-GITHUB Stats
+## Other GitHub Stats
 
 [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
-<!--
-[![Discord Presence](https://lanyard.cnrad.dev/api/224320540402253824?theme=dark&bg=06142e&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=||There%20can%20only%20be%20one||)](https://discord.com/users/224320540402253824)
-x
--->
+![](https://hit.yhype.me/github/profile?user_id=94087113)
