@@ -15,12 +15,15 @@
 ![](https://hit.yhype.me/github/profile?user_id=94087113)
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github)](https://github.com/Die-Antwoord)
-[![wakatime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
+[![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
 
-[![Frostbite-Hosting-Services](https://img.shields.io/badge/Frostbite_Hosting_Services-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dashboard.fb-hosting.ga/register?ref=nMHytd8d>)
+[![GX-Hosting](https://img.shields.io/badge/GX_Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://discord.gg/aF4Uq4DxdJ >)
 
+[![Frostbite-Hosting](https://img.shields.io/badge/Frostbite_Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<http://frostbite.host/aff.php?aff=2>)
+
+[![Shadow-Hub-Hosting](https://img.shields.io/badge/Shadow_Hub_Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
 
 [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
