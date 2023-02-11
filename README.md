@@ -145,4 +145,4 @@
 
 [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
-![profile-view.hit.yhype.me](https://hit.yhype.me/github/profile?user_id=94087113)
+[![profile-view.hit.yhype.me](https://hit.yhype.me/github/profile?user_id=94087113)]()
