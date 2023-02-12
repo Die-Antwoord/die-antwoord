@@ -10,7 +10,7 @@
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
 
-[![GX-Hosting](https://img.shields.io/badge/GX-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://discord.gg/aF4Uq4DxdJ >)
+[![GlobalX-Hosting](https://img.shields.io/badge/GlobalX-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://discord.gg/aF4Uq4DxdJ >)
 [![Frostbite-Hosting](https://img.shields.io/badge/Frostbite-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<http://frostbite.host/aff.php?aff=2>)
 [![Shadow-Hub-Hosting](https://img.shields.io/badge/ShadowHub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
 [![Ecliptics-Hosting](https://img.shields.io/badge/Ecliptics-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://ecliptics-hosting.co.uk/register?ref=LzsigN9N>)
