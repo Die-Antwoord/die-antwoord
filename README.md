@@ -10,9 +10,11 @@
 [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)](https://discord.gg/aF4Uq4DxdJ)
 [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)](https://discord.gg/aF4Uq4DxdJ)
 
-[![GX-Hosting](https://img.shields.io/badge/GX_Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://discord.gg/aF4Uq4DxdJ >)
-[![Frostbite-Hosting](https://img.shields.io/badge/Frostbite_Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<http://frostbite.host/aff.php?aff=2>)
-[![Shadow-Hub-Hosting](https://img.shields.io/badge/Shadow_Hub_Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
+[![GX-Hosting](https://img.shields.io/badge/-GX-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://discord.gg/aF4Uq4DxdJ >)
+[![Frostbite-Hosting](https://img.shields.io/badge/-Frostbite-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<http://frostbite.host/aff.php?aff=2>)
+[![Shadow-Hub-Hosting](https://img.shields.io/badge/-Shadow-Hub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
+[![Ecliptics-Hosting](https://img.shields.io/badge/-Ecliptics-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://ecliptics-hosting.co.uk/register?ref=LzsigN9N>)
+[![Nodium-Hostin](https://img.shields.io/badge/-Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
 
 [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
@@ -43,7 +45,7 @@
 > [![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok&logoColor=purple)](https://www.tiktok.com/@die_antwoord_wkj)
 > [![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
 > [![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
-> [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)]()
+> [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)](https://www.reddit.com/user/die_antwoord_za/m/discordapp_feed/)
 > [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam)]()
 > [![Battle.net](https://img.shields.io/badge/-Battle.net-000?style=for-the-badge&logo=battle.net)]()
 > [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
@@ -145,4 +147,4 @@
 
 [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
-[![profile-view.hit.yhype.me](https://i.imgur.com/lMxOvcE.png)](https://hit.yhype.me/github/profile?user_id=94087113)
+![profile-view.hit.yhype.me](https://hit.yhype.me/github/profile?user_id=94087113)
