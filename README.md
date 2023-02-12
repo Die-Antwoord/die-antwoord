@@ -12,7 +12,7 @@
 
 [![GX-Hosting](https://img.shields.io/badge/GX-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://discord.gg/aF4Uq4DxdJ >)
 [![Frostbite-Hosting](https://img.shields.io/badge/Frostbite-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<http://frostbite.host/aff.php?aff=2>)
-[![Shadow-Hub-Hosting](https://img.shields.io/badge/Shadow-Hub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
+[![Shadow-Hub-Hosting](https://img.shields.io/badge/ShadowHub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
 [![Ecliptics-Hosting](https://img.shields.io/badge/Ecliptics-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://ecliptics-hosting.co.uk/register?ref=LzsigN9N>)
 [![Nodium-Hostin](https://img.shields.io/badge/Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
 
