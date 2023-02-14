@@ -50,7 +50,7 @@
 > [![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
 > [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)](https://www.reddit.com/user/die_antwoord_za/m/discordapp_feed/)
 > [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam)](https://globalx-hosting.com/affiliate/KF5VHFsT)
-> [![Battle.net](https://img.shields.io/badge/-Battle.net-000?style=for-the-badge&logo=battle.net)]https://globalx-hosting.com/affiliate/KF5VHFsT()
+> [![Battle.net](https://img.shields.io/badge/-Battle.net-000?style=for-the-badge&logo=battle.net)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 > [![PayPal](https://img.shields.io/badge/-PayPal-000?style=for-the-badge&logo=paypal)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 
@@ -150,4 +150,4 @@
 
 [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
-[![profile-view.hit.yhype.me](https://hit.yhype.me/github/profile?user_id=94087113)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+[![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
