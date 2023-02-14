@@ -99,7 +99,7 @@
 
 </details>
 
-## My Background & Experties
+## Background & Experties \ Responsibilities & Duties
 
 <details>
  <summary><b>Qualification & Achievements</b></summary>
@@ -122,8 +122,6 @@
     ⦁ ICDL, ITIL
 
 </details>
-
-## Responsibilities & Duties
 
 <details>
  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
