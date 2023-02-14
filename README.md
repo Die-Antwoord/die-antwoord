@@ -20,7 +20,6 @@
 [![Nodium-Hostin](https://img.shields.io/badge/Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
 
 [![GitHub Stats](https://github-readme-stats-die-antwoord.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
 
 ## Socials and Other Media
 
@@ -150,6 +149,7 @@
 
 [![Top Langs](https://github-readme-stats-die-antwoord.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)](https://discord.gg/aF4Uq4DxdJ)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)](https://discord.gg/aF4Uq4DxdJ)
 
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
