@@ -6,7 +6,10 @@
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+<!--
 [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
+-->
+
 [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github)](https://github.com/Die-Antwoord)
 [![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
 
