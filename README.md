@@ -23,12 +23,12 @@
 ## Socials Profiles, Languages, Frameworks & Libraries
 
 <details>
- <summary><b>Socials Links and Details 🎙</b></summary>
+ <summary><b>Socials Links and Profiles 🎙</b></summary>
 
 > [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)](https://discord.gg/aF4Uq4DxdJ)
-
 > [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)](https://dangercord.com)
 > [![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)](https://blacklister.xyz/)
+
 > [![Replit](https://img.shields.io/badge/-Replit-000?style=for-the-badge&logo=Replit)](https://replit.com/@Die-Antwoord)
 > [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=Gitlab)](https://gitlab.com/die-antwoord)
 > [![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/Die-Antwoord/)
@@ -39,6 +39,8 @@
 > [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![GitBook](https://img.shields.io/badge/-GitBook-000?style=for-the-badge&logo=gitbook)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+> [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)](https://www.reddit.com/user/die_antwoord_za/m/discordapp_feed/)
+
 > [![Reddit](https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
 > [![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/die_antwoord_wkj)
 > [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)](https://twitter.com/dieantwoordza)
@@ -46,7 +48,6 @@
 > [![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok&logoColor=purple)](https://www.tiktok.com/@die_antwoord_wkj)
 > [![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/dieantwoordza)
 > [![Spotify](https://img.shields.io/badge/-Spotify-000?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/zsb4oem3sdzl6k8bfara026pz?si=ce432f1572a34610)
-> [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)](https://www.reddit.com/user/die_antwoord_za/m/discordapp_feed/)
 > [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Battle.net](https://img.shields.io/badge/-Battle.net-000?style=for-the-badge&logo=battle.net)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
@@ -65,6 +66,7 @@
 > [![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Microsoft_SharePoint](https://img.shields.io/badge/-Microsoft_SharePoint-000?style=for-the-badge&logo=microsoft-sharepoint&logoColor=blue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Microsoft_Azure](https://img.shields.io/badge/-Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=blue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+
 > [![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Arch_Linux](https://img.shields.io/badge/-Arch_Linux-000?style=for-the-badge&logo=arch-linux)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Fedora](https://img.shields.io/badge/-Fedora-000?style=for-the-badge&logo=fedora)](https://globalx-hosting.com/affiliate/KF5VHFsT)
@@ -72,6 +74,7 @@
 > [![RedHat](https://img.shields.io/badge/-Red_Hat-000?style=for-the-badge&logo=redhat)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![SUSE](https://img.shields.io/badge/-SUSE-000?style=for-the-badge&logo=SUSE)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+
 > [![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Powershell](https://img.shields.io/badge/-Powershell-000?style=for-the-badge&logo=powershell)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)](https://globalx-hosting.com/affiliate/KF5VHFsT)
@@ -82,13 +85,16 @@
 > [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=yellow)]()
 > [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+
 > [![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+
 > [![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio)]()
 > [![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)]()
 > [![Gimp](https://img.shields.io/badge/-Gimp-000?style=for-the-badge&logo=gimp)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=adobephotoshop)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+
 > [![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Joomla](https://img.shields.io/badge/-Joomla-000?style=for-the-badge&logo=joomla)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&logo=drupal)](https://globalx-hosting.com/affiliate/KF5VHFsT)
