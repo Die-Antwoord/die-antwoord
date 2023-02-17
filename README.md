@@ -56,7 +56,7 @@
 </details>
 
 <details>
- <summary><b>Applications & Tools 🛠</b></summary>
+ <summary><b>Applications, Tools & Resources 🛠</b></summary>
 
 > [![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft&logoColor=darkblue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 > [![Windows-11](https://img.shields.io/badge/-Windows_11-000?style=for-the-badge&logo=windows11&logoColor=blue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
