@@ -13,13 +13,13 @@
  [![Shadow-Hub-Hosting](https://img.shields.io/badge/ShadowHub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
  [![Ecliptics-Hosting](https://img.shields.io/badge/Ecliptics-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://ecliptics-hosting.co.uk/register?ref=LzsigN9N>)
  [![Nodium-Hostin](https://img.shields.io/badge/Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
- 
+
  [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)][discord]
  [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)][discord]
 
- [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord) 
- [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github)](https://github.com/Die-Antwoord) 
- [![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52) 
+ [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
+ [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github)](https://github.com/Die-Antwoord)
+ [![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
 
 ## Socials Profiles, Languages, Frameworks & Libraries
 
@@ -84,15 +84,15 @@
 [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)](https://globalx-hosting.com/affiliate/KF5VHFsT)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=yellow)]()
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=yellow)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 
-[![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio)]()
-[![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)]()
+[![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![Sublime_Text](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 [![Gimp](https://img.shields.io/badge/-Gimp-000?style=for-the-badge&logo=gimp)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![PS](https://img.shields.io/badge/-PS-000?style=for-the-badge&logo=adobephotoshop)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 
@@ -108,21 +108,21 @@
  <details>
   <summary><b>Qualification & Achievements</b></summary>
 
- ⦁ +A 220-601 (Hardware and Software) Exam No 220-601 
- ⦁ +A 220-602 (IT Technician) Exam No 220-602 
- ⦁ +N (Networking) 
- ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional) 
- ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure) 
- ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
- ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
- ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance ) 
- ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance) 
- ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design) 
- ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance) 
- ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration) 
- ⦁ MCSE:70-228 (SQL Server 2000 Administration) 
- ⦁ CCNA 
- ⦁ Linux Server (Ubuntu, Kali) 
+ ⦁ +A 220-601 (Hardware and Software) Exam No 220-601
+ ⦁ +A 220-602 (IT Technician) Exam No 220-602
+ ⦁ +N (Networking)
+ ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional)
+ ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure)
+ ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration)
+ ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance)
+ ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance )
+ ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance)
+ ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design)
+ ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance)
+ ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration)
+ ⦁ MCSE:70-228 (SQL Server 2000 Administration)
+ ⦁ CCNA
+ ⦁ Linux Server (Ubuntu, Kali)
  ⦁ ICDL, ITIL
 
  </details>
@@ -130,19 +130,19 @@
  <details>
   <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
 
-  ⦁ SQL Server Databases 
-  ⦁ Active Directory Domain Server Infrastructure 
-  ⦁ Microsoft Exchange Server 
-  ⦁ Microsoft SQL 
-  ⦁ Virtualized Server (VMware, Esxi, HyperV) 
-  ⦁ Microsoft HyperV Cluster Server 
-  ⦁ Windows Update Server 
-  ⦁ Windows Desktop Application (Deplotment, Backups) 
-  ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky ) 
-  ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS 
-  ⦁ DNS, IIS and 3de party hosted services 
-  ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.) 
-  ⦁ Backups tapes, drives and online storage 
+  ⦁ SQL Server Databases
+  ⦁ Active Directory Domain Server Infrastructure
+  ⦁ Microsoft Exchange Server
+  ⦁ Microsoft SQL
+  ⦁ Virtualized Server (VMware, Esxi, HyperV)
+  ⦁ Microsoft HyperV Cluster Server
+  ⦁ Windows Update Server
+  ⦁ Windows Desktop Application (Deplotment, Backups)
+  ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky )
+  ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS
+  ⦁ DNS, IIS and 3de party hosted services
+  ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.)
+  ⦁ Backups tapes, drives and online storage
   ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 
  </details>
