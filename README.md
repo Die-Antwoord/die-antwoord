@@ -23,8 +23,8 @@
 
 ## Socials Profiles, Languages, Frameworks & Libraries
 
- <details>
- <summary><b>Socials Links and Profiles 🎙</b></summary>
+ <!-- <details>
+ <summary><b>Socials Links and Profiles 🎙</b></summary> -->
 
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)][discord]
 [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)][dangercord]
@@ -54,10 +54,10 @@
 [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 [![PayPal](https://img.shields.io/badge/-PayPal-000?style=for-the-badge&logo=paypal)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 
- </details>
+ <!-- </details>
 
  <details>
-  <summary><b>Applications, Tools & Resources 🛠</b></summary>
+  <summary><b>Applications, Tools & Resources 🛠</b></summary> -->
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft&logoColor=darkblue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![Windows-11](https://img.shields.io/badge/-Windows_11-000?style=for-the-badge&logo=windows11&logoColor=blue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
@@ -101,51 +101,51 @@
 [![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&logo=drupal)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?style=for-the-badge&logo=google-cloud)](https://github.com/Die-Antwoord)
 
- </details>
+ <!-- </details> -->
 
 ## Background & Experties \ Responsibilities & Duties
 
+ <!-- <details>
+  <summary><b>Qualification & Achievements</b></summary> -->
+
+- +A 220-601 (Hardware and Software) Exam No 220-601
+- +A 220-602 (IT Technician) Exam No 220-602
+- +N (Networking)
+- MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional)
+- MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure)
+- MCSE:70-236 (Microsoft Exchange Server 2007 Configuration)
+- MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance)
+- MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance )
+- MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance)
+- MCSE:70-297 (Windows Server 2003 Directory Service Design)
+- MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance)
+- MCSE:70-236 (Microsoft Exchange Server 2007 Configuration)
+- MCSE:70-228 (SQL Server 2000 Administration)
+- CCNA
+- Linux Server (Ubuntu, Kali)
+- ICDL, ITIL
+
+ <!-- </details>
+
  <details>
-  <summary><b>Qualification & Achievements</b></summary>
+  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary> -->
 
- ⦁ +A 220-601 (Hardware and Software) Exam No 220-601
- ⦁ +A 220-602 (IT Technician) Exam No 220-602
- ⦁ +N (Networking)
- ⦁ MCSE:70-270 (Installing, Configuring, and Administering Microsoft Windows XP Professional)
- ⦁ MCSE:70-293 (Planning and Maintaining a Windows Server 2003 Network Infrastructure)
- ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration)
- ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance)
- ⦁ MCSE:70-290 (Windows Server 2003 Environment Management and Maintenance )
- ⦁ MCSE:70-291 (Windows Server 2003 Network Infrastructure Implementation Management and Maintenance)
- ⦁ MCSE:70-297 (Windows Server 2003 Directory Service Design)
- ⦁ MCSE:70-294 (Windows Server 2003 Active Directory Planning Implementation and Maintenance)
- ⦁ MCSE:70-236 (Microsoft Exchange Server 2007 Configuration)
- ⦁ MCSE:70-228 (SQL Server 2000 Administration)
- ⦁ CCNA
- ⦁ Linux Server (Ubuntu, Kali)
- ⦁ ICDL, ITIL
+- SQL Server Databases
+- Active Directory Domain Server Infrastructure
+- Microsoft Exchange Server
+- Microsoft SQL
+- Virtualized Server (VMware, Esxi, HyperV)
+- Microsoft HyperV Cluster Server
+- Windows Update Server
+- Windows Desktop Application (Deplotment, Backups)
+- Antivirus Systems ( Trend Micro, Bit defender, Kaspersky )
+- Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS
+- DNS, IIS and 3de party hosted services
+- Web Proxy Systems and Server (ISA, Free Proxy etc.)
+- Backups tapes, drives and online storage
+- 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 
- </details>
-
- <details>
-  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
-
-  ⦁ SQL Server Databases
-  ⦁ Active Directory Domain Server Infrastructure
-  ⦁ Microsoft Exchange Server
-  ⦁ Microsoft SQL
-  ⦁ Virtualized Server (VMware, Esxi, HyperV)
-  ⦁ Microsoft HyperV Cluster Server
-  ⦁ Windows Update Server
-  ⦁ Windows Desktop Application (Deplotment, Backups)
-  ⦁ Antivirus Systems ( Trend Micro, Bit defender, Kaspersky )
-  ⦁ Network LAN and WAN services ⦁ Firewalls, DMZ, Routing and QOS
-  ⦁ DNS, IIS and 3de party hosted services
-  ⦁ Web Proxy Systems and Server (ISA, Free Proxy etc.)
-  ⦁ Backups tapes, drives and online storage
-  ⦁ 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
-
- </details>
+ <!-- </details> -->
 
 ## Other GitHub Stats
 
