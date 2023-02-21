@@ -23,8 +23,8 @@
 
 ## Socials Profiles, Languages, Frameworks & Libraries
 
- <!-- <details>
- <summary><b>Socials Links and Profiles 🎙</b></summary> -->
+ <details>
+ <summary><b>Socials Links and Profiles 🎙</b></summary>
 
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)][discord]
 [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)][dangercord]
@@ -54,10 +54,10 @@
 [![MyAnimeList](https://img.shields.io/badge/-My_Anime_Watchlist-000?style=for-the-badge&logo=crunchyroll)](https://myanimelist.net/animelist/dieantwoord)
 [![PayPal](https://img.shields.io/badge/-PayPal-000?style=for-the-badge&logo=paypal)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 
- <!-- </details>
+ </details>
 
  <details>
-  <summary><b>Applications, Tools & Resources 🛠</b></summary> -->
+  <summary><b>Applications, Tools & Resources 🛠</b></summary>
 
 [![Microsoft](https://img.shields.io/badge/-Microsoft-000?style=for-the-badge&logo=Microsoft&logoColor=darkblue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![Windows-11](https://img.shields.io/badge/-Windows_11-000?style=for-the-badge&logo=windows11&logoColor=blue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
@@ -101,12 +101,12 @@
 [![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&logo=drupal)](https://globalx-hosting.com/affiliate/KF5VHFsT)
 [![Google_Cloud](https://img.shields.io/badge/-Google_Cloud-000?style=for-the-badge&logo=google-cloud)](https://github.com/Die-Antwoord)
 
- <!-- </details> -->
+ </details>
 
 ## Background & Experties \ Responsibilities & Duties
 
- <!-- <details>
-  <summary><b>Qualification & Achievements</b></summary> -->
+ <details>
+  <summary><b>Qualification & Achievements</b></summary>
 
 - +A 220-601 (Hardware and Software) Exam No 220-601
 - +A 220-602 (IT Technician) Exam No 220-602
@@ -125,10 +125,10 @@
 - Linux Server (Ubuntu, Kali)
 - ICDL, ITIL
 
- <!-- </details>
+ </details>
 
  <details>
-  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary> -->
+  <summary><b>Implementation, Configuration, Managing & Maintaining Infrastructures</b></summary>
 
 - SQL Server Databases
 - Active Directory Domain Server Infrastructure
@@ -145,7 +145,7 @@
 - Backups tapes, drives and online storage
 - 3de party apps (Coltech, VIP, Pastel, AutoCAD, Qcad, Photoshop, Smartboards)
 
- <!-- </details> -->
+ </details>
 
 ## Other GitHub Stats
 
