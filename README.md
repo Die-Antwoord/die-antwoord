@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/slime-sword-crop-WNAME3.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/slime-banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/slime-sword-crop-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/slime-sword-crop-dark.png">
   <img alt="Slime-Banner" src="https://i.imgur.com/sUCZ10H.png" width=1000/>
 </picture>
 
