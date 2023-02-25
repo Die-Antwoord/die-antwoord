@@ -145,6 +145,8 @@
   
    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)][discord]
 
+   [![Die-Antwoord wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dieantwoord&show_icons=true&theme=transparent&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+
   [leetcode]: https://leetcode.com/Die-Antwoord/
   [replit]: https://replit.com/@Die-Antwoord
   [gitlab]: https://gitlab.com/die-antwoord
