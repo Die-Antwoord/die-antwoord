@@ -161,7 +161,7 @@
 [![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Die-Antwoord&theme=github_dark)][blacklister]
-[![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)
+[![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)][blacklister]
 
 <!--
