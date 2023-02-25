@@ -158,11 +158,11 @@
 [![Die-Antwoord wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dieantwoord&show_icons=true&theme=transparent&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Die-Antwoord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Die-Antwoord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Die-Antwoord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)
+[![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Die-Antwoord&theme=github_dark)[blacklister]
+[![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Die-Antwoord&theme=github_dark)[blacklister]
+[![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Die-Antwoord&theme=github_dark)[blacklister]
+[![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)
+[![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)[blacklister]
 
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
