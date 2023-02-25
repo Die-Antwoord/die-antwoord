@@ -155,6 +155,8 @@
 
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)][discord]
 
+[![Die-Antwoord wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Die-Antwoord)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
 -->
