@@ -157,6 +157,14 @@
 
 [![Die-Antwoord wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dieantwoord&show_icons=true&theme=transparent&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[![ProfileDetails](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Die-Antwoord&theme=zenburn)][blacklister]
+[![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Die-Antwoord&theme=zenburn)][blacklister]
+[![ProductiveTime](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=zenburn&utcOffset=8)][blacklister]
+
+
+
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
 -->
