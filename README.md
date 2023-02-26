@@ -166,7 +166,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/altondaley36.png" alt="TryHackMe">
 
-<img src="https://tryhackme.com/altondaley36/badges/first-4-rooms" alt="TryHackMe">
+<img src="https://tryhackme.com/img/badges/firstfour.svg" alt="TryHackMe">
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
 -->
