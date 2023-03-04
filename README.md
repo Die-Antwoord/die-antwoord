@@ -6,7 +6,11 @@
 
 # Hosted Services
 
+ [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+<!--
  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+-->
 
  [![GlobalX-Hosting](https://img.shields.io/badge/GlobalX-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://globalx-hosting.com/affiliate/KF5VHFsT>)
  [![Frostbite-Hosting](https://img.shields.io/badge/Frostbite-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<http://frostbite.host/aff.php?aff=2>)
