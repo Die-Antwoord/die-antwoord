@@ -164,9 +164,6 @@
 [![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)][blacklister]
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/altondaley36.png" alt="TryHackMe">
-
-
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
 -->
