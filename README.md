@@ -168,6 +168,10 @@
 [![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)][blacklister]
 
+## Domains
+
+![](https://api.checklyhq.com/v1/badges/checks/064fad8f-90af-4f25-9c5b-02f216a8966a?style=for-the-badge&theme=dark)
+
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
 -->
