@@ -170,9 +170,9 @@
 
 ## Domains
 
-![](https://api.checklyhq.com/v1/badges/checks/064fad8f-90af-4f25-9c5b-02f216a8966a?style=for-the-badge&theme=dark)
+[![dieantwoord.xyz](https://api.checklyhq.com/v1/badges/checks/064fad8f-90af-4f25-9c5b-02f216a8966a?style=for-the-badge&theme=dark)](https://dieantwoord.xyz)
 
-![](https://api.checklyhq.com/v1/badges/checks/0e216994-77c3-41e4-9455-049031dc0011?style=for-the-badge&theme=dark)
+[![dieantwoord.site](https://api.checklyhq.com/v1/badges/checks/0e216994-77c3-41e4-9455-049031dc0011?style=for-the-badge&theme=dark)](https://dieantwoord.site)
 
 <!--
 [![profile-view.hit.yhype.me\]\(<https://hit.yhype.me/github/profile?user_id=94087113>)\]\(<https://globalx-hosting.com/affiliate/KF5VHFsT>)
