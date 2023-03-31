@@ -172,8 +172,8 @@
 ## Domains
 
 
-- dieantwoord.xyz [![dieantwoord.xyz](https://betteruptime.com/status-badges/v1/monitor/ngwl.svg)](https://betteruptime.com/?utm_source=status_badge)
-- dieantwoord.site[![dieantwoord.site](https://betteruptime.com/status-badges/v1/monitor/nmnt.svg)](https://betteruptime.com/?utm_source=status_badge)
+- dieantwoord.xyz - [![dieantwoord.xyz](https://betteruptime.com/status-badges/v1/monitor/ngwl.svg)](https://betteruptime.com/?utm_source=status_badge)
+- dieantwoord.site - [![dieantwoord.site](https://betteruptime.com/status-badges/v1/monitor/nmnt.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 <!--
 
