@@ -13,7 +13,7 @@
 -->
 
  [![GlobalX-Hosting](https://img.shields.io/badge/GlobalX-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://globalx-hosting.com/affiliate/dQV3jbuc>)
- [![Frostbite-Hosting](https://img.shields.io/badge/Frostbite-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<http://frostbite.host/aff.php?aff=2>)
+ [![Frostbite-Hosting](https://img.shields.io/badge/Frostbite-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)][fbhostaf]
  [![Shadow-Hub-Hosting](https://img.shields.io/badge/ShadowHub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
  [![Ecliptics-Hosting](https://img.shields.io/badge/Ecliptics-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://ecliptics-hosting.co.uk/register?ref=LzsigN9N>)
  [![Nodium-Hostin](https://img.shields.io/badge/Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
@@ -39,12 +39,12 @@
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=Gitlab)][gitlab]
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode)][leetcode]
 [![Codepen](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen)][codepen]
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/dieantwoord1)
-[![npmjs](https://img.shields.io/badge/-npmjs-000?style=for-the-badge&logo=npm)](https://www.npmjs.com/~dieantwoord)
-[![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-000?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/20395182/die-antwoord)
-[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)](https://globalx-hosting.com/affiliate/KF5VHFsT)
-[![GitBook](https://img.shields.io/badge/-GitBook-000?style=for-the-badge&logo=gitbook)](https://globalx-hosting.com/affiliate/KF5VHFsT)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://globalx-hosting.com/affiliate/KF5VHFsT)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=for-the-badge&logo=bitbucket)][bitbucket]
+[![npmjs](https://img.shields.io/badge/-npmjs-000?style=for-the-badge&logo=npm)][npmjs]
+[![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-000?style=for-the-badge&logo=stack-overflow)][stackoverflow]
+[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)](https://frostbite.host/aff.php?aff=2)
+[![GitBook](https://img.shields.io/badge/-GitBook-000?style=for-the-badge&logo=gitbook)](https://frostbite.host/aff.php?aff=2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://frostbite.host/aff.php?aff=2)
 [![RSS-Feeds](https://img.shields.io/badge/-RSS-000?style=for-the-badge&logo=rss)](https://www.reddit.com/user/die_antwoord_za/m/discordapp_feed/)
 
 [![Reddit](https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=Reddit)](https://www.reddit.com/user/die_antwoord_za)
@@ -193,3 +193,8 @@
 [blacklister]: https://blacklister.xyz/
 [dangercord]: https://dangercord.com
 [discord]: https://discord.gg/aF4Uq4DxdJ
+[bitbucket]: https://bitbucket.org/dieantwoord1
+[stackoverflow]: https://stackoverflow.com/users/20395182/die-antwoord
+[npmjs]: https://www.npmjs.com/~dieantwoord
+[fbhostaf]: https://frostbite.host/aff.php?aff=2
+[gxhostaf]: https://globalx-hosting.com/affiliate/dQV3jbuc
