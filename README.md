@@ -4,20 +4,27 @@
   <img alt="Slime-Banner" src="https://i.imgur.com/sUCZ10H.png" width=1000/>
 </picture>
 
+<!--
+
 # Hosted Services
 
  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-<!--
  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=6211c48d1a52&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
--->
 
  [![GlobalX-Hosting](https://img.shields.io/badge/GlobalX-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://globalx-hosting.com/affiliate/dQV3jbuc>)
  [![Frostbite-Hosting](https://img.shields.io/badge/Frostbite-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)][fbhostaf]
  [![Shadow-Hub-Hosting](https://img.shields.io/badge/ShadowHub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
  [![Ecliptics-Hosting](https://img.shields.io/badge/Ecliptics-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://ecliptics-hosting.co.uk/register?ref=LzsigN9N>)
  [![Nodium-Hostin](https://img.shields.io/badge/Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
+-->
 
+ [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)][discord]
+
+ [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&logo=Discord)][dangercord]
+
+ [![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&logo=Discord)][blacklister]
+ 
  [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)][discord]
  [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)][discord]
 
