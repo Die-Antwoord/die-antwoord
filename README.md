@@ -19,11 +19,11 @@
  [![Nodium-Hostin](https://img.shields.io/badge/Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
 -->
 
- [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
+---
 
- [![Dangercord](https://img.shields.io/badge/-Dangercord-000?style=for-the-badge&color=1a56bc&logo=Discord)][dangercord]
-
- [![Blacklister](https://img.shields.io/badge/-Blacklister-000?style=for-the-badge&color=1a56bc&logo=Discord)][blacklister]
+ [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
+ [![Dangercord](https://img.shields.io/badge/Dangercord-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][dangercord]
+ [![Blacklister](https://img.shields.io/badge/Blacklister-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][blacklister]
  
  [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)][discord]
  [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)][discord]
