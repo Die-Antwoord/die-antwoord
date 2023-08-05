@@ -199,7 +199,7 @@
 [codepen]: https://codepen.io/Die-Antwoord
 [blacklister]: https://blacklister.xyz/
 [dangercord]: https://dangercord.com
-[discord]: https://discord.gg/aF4Uq4DxdJ
+[discord]: https://discord.gg/blacklister
 [bitbucket]: https://bitbucket.org/dieantwoord1
 [stackoverflow]: https://stackoverflow.com/users/20395182/die-antwoord
 [npmjs]: https://www.npmjs.com/~dieantwoord
