@@ -159,8 +159,10 @@
 
  </details>
 
-## Other GitHub Stats
 <!--
+
+## Other GitHub Stats
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)][discord]
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Die-Antwoord&theme=windows-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&background=DD272700&border=DDDAD7&stroke=DDDDDD&sideNums=025CDA&sideLabels=417E87&currStreakLabel=417E87&dates=025CDA&ring=025CDA&fire=DD2727&currStreakNum=025CDA)][discord]
@@ -168,13 +170,13 @@
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Die-Antwoord&show_icons=true&theme=transparent&border_radius=12)][discord]
 
 [![Die-Antwoord wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dieantwoord&show_icons=true&theme=transparent&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 [![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)][blacklister]
+-->
 
 ## Domains
 
