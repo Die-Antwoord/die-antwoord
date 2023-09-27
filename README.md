@@ -20,7 +20,7 @@
 -->
 
 ---
-
+ [![Riotnodes](https://img.shields.io/badge/Riot-Nodes-000?style=for-the-badge&color=1a56bc&logo=Discord)][riotnodes]
  [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
  [![Dangercord](https://img.shields.io/badge/Dangercord-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][dangercord]
  [![Blacklister](https://img.shields.io/badge/Blacklister-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][blacklister]
@@ -207,3 +207,4 @@
 [npmjs]: https://www.npmjs.com/~dieantwoord
 [fbhostaf]: https://frostbite.host/aff.php?aff=2
 [gxhostaf]: https://globalx-hosting.com/affiliate/dQV3jbuc
+[riotnodes]: https://discord.gg/srCkVfnBCd
