@@ -24,18 +24,23 @@
 
  [![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
 
+ [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
+
+
 -->
 
 ---
  [![Riotnodes](https://img.shields.io/badge/RiotNodes-Discord-000?style=for-the-badge&color=1a56bc&logo=Discord)][riotnodes]
  [![Riotnodes](https://img.shields.io/badge/RiotNodes-Host-000?style=for-the-badge&color=1a56bc&logo=Discord)][riotnodesref]
 
- [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
  [![Dangercord](https://img.shields.io/badge/Dangercord-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][dangercord]
  [![Blacklister](https://img.shields.io/badge/Blacklister-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][blacklister]
+
+ [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
  
- [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
- [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github)](https://github.com/Die-Antwoord)
+ [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github&label=Github-View)](https://github.com/Die-Antwoord)
+
+
  
 ## Socials Profiles, Languages, Frameworks & Libraries
 
