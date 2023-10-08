@@ -17,6 +17,13 @@
  [![Shadow-Hub-Hosting](https://img.shields.io/badge/ShadowHub-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://dash.shadowhub.net/register?ref=XwIqKZMO>)
  [![Ecliptics-Hosting](https://img.shields.io/badge/Ecliptics-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](<https://ecliptics-hosting.co.uk/register?ref=LzsigN9N>)
  [![Nodium-Hostin](https://img.shields.io/badge/Nodium-Hosting-000?style=for-the-badge&color=1a56bc&logo=Discord)](https://billing.nodiumhosting.com/register?ref=hGBnSdCf)
+
+ [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)][discord]
+ 
+ [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)][discord]
+
+ [![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
+
 -->
 
 ---
@@ -27,14 +34,9 @@
  [![Dangercord](https://img.shields.io/badge/Dangercord-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][dangercord]
  [![Blacklister](https://img.shields.io/badge/Blacklister-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][blacklister]
  
- [![GitHub-Top-Language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge&color=1a56bc&logo=python)][discord]
- [![Ask-Me-Anything](https://img.shields.io/badge/Ask_Me-Anything-000.svg?style=for-the-badge&color=1a56bc)][discord]
-
  [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
  [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&style=for-the-badge&logo=github)](https://github.com/Die-Antwoord)
  
- [![WakaTime](https://wakatime.com/badge/user/3d9ba715-bfef-45e1-b235-8f6f7030dd52.svg?style=for-the-badge)](https://wakatime.com/@3d9ba715-bfef-45e1-b235-8f6f7030dd52)
-
 ## Socials Profiles, Languages, Frameworks & Libraries
 
  <details>
