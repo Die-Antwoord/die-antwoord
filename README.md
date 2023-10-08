@@ -38,7 +38,7 @@
 
  [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
  
- [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord?style=for-the-badge&label=Github-View&logo=Github)](https://github.com/Die-Antwoord)
+ [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&?style=for-the-badge&label=Github-View&logo=Github)](https://github.com/Die-Antwoord)
 
 
  
