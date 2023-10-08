@@ -37,6 +37,7 @@
 
  [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
  
+<!--
 ## Socials Profiles, Languages, Frameworks & Libraries
 
  <details>
@@ -163,8 +164,6 @@
 
  </details>
 
-<!--
-
 ## Other GitHub Stats
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Die-Antwoord&theme=transparent&layout=compact&card_width=445&border_radius=12)][discord]
@@ -182,7 +181,7 @@
 [![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)][blacklister]
 -->
 
-## Domains
+## Domains & Pages
 
 [Status Page Betteruptime](<https://status.dieantwoord.xyz/>)
 
