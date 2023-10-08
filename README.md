@@ -26,7 +26,6 @@
 
  [![GitHub-Followers](https://img.shields.io/github/followers/Die-Antwoord.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)](https://github.com/Die-Antwoord)
 
-
 -->
 
 ---
@@ -37,10 +36,6 @@
  [![Blacklister](https://img.shields.io/badge/Blacklister-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][blacklister]
 
  [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
- 
- [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&logo=Github&style=for-the-badge&label=Github_View&logo=Github)](https://github.com/Die-Antwoord)
-
-
  
 ## Socials Profiles, Languages, Frameworks & Libraries
 
@@ -194,6 +189,9 @@
 - dieantwoord.xyz - [![dieantwoord.xyz](https://betteruptime.com/status-badges/v1/monitor/ngwl.svg)](https://betteruptime.com/?utm_source=status_badge)
 - dieantwoord.site - [![dieantwoord.site](https://betteruptime.com/status-badges/v1/monitor/nmnt.svg)](https://betteruptime.com/?utm_source=status_badge)
 - die-antwoord.github.io - [![die-antwoord.github.io](https://betteruptime.com/status-badges/v1/monitor/o984.svg)](https://betteruptime.com/?utm_source=status_badge)
+
+ [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&logo=Github&style=for-the-badge&label=Github_View&logo=Github)](https://github.com/Die-Antwoord)
+
 <!--
 
 [![dieantwoord.site](https://api.checklyhq.com/v1/badges/checks/0e216994-77c3-41e4-9455-049031dc0011?style=for-the-badge&theme=dark)](https://dieantwoord.site)
