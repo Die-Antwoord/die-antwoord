@@ -179,14 +179,14 @@
 [![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Die-Antwoord&theme=github_dark)][blacklister]
 [![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Die-Antwoord&theme=github_dark&utcOffset=8)][blacklister]
--->
 
 ## Domains & Pages
 
 [Status Page Betteruptime](<https://status.dieantwoord.xyz/>)
 
  [![hxh-report.pages.dev](https://uptime.betterstack.com/status-badges/v1/monitor/veo6.svg)](https://uptime.betterstack.com/?utm_source=status_badge) - [hxh-report.pages.dev](https://hxh-report.pages.dev)
- 
+ -->
+
  [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&logo=Github&style=for-the-badge&label=Github_View&logo=Github)](https://github.com/Die-Antwoord)
 
 <!--
