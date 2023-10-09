@@ -31,10 +31,8 @@
 ---
  [![Riotnodes](https://img.shields.io/badge/RiotNodes-Discord-000?style=for-the-badge&color=1a56bc&logo=Discord)][riotnodes]
  [![Riotnodes](https://img.shields.io/badge/RiotNodes-Host-000?style=for-the-badge&color=1a56bc&logo=Discord)][riotnodesref]
-
  [![Dangercord](https://img.shields.io/badge/Dangercord-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][dangercord]
  [![Blacklister](https://img.shields.io/badge/Blacklister-Website-000?style=for-the-badge&color=1a56bc&logo=Discord)][blacklister]
-
  [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
  
 <!--
