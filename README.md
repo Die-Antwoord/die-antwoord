@@ -185,14 +185,13 @@
 
 [Status Page Betteruptime](<https://status.dieantwoord.xyz/>)
 
-
  [![hxh-report.pages.dev](https://uptime.betterstack.com/status-badges/v1/monitor/veo6.svg)](https://uptime.betterstack.com/?utm_source=status_badge) - [hxh-report.pages.dev](https://hxh-report.pages.dev)
  
- [![die-antwoord.github.io](https://betteruptime.com/status-badges/v1/monitor/o984.svg)](https://betteruptime.com/?utm_source=status_badge) - [die-antwoord.github.io](https://die-antwoord.github.io)
-
  [![Visits](https://komarev.com/ghpvc?username=Die-Antwoord&logo=Github&style=for-the-badge&label=Github_View&logo=Github)](https://github.com/Die-Antwoord)
 
 <!--
+
+[![die-antwoord.github.io](https://betteruptime.com/status-badges/v1/monitor/o984.svg)](https://betteruptime.com/?utm_source=status_badge) - [die-antwoord.github.io](https://die-antwoord.github.io)
 
 [![dieantwoord.site](https://api.checklyhq.com/v1/badges/checks/0e216994-77c3-41e4-9455-049031dc0011?style=for-the-badge&theme=dark)](https://dieantwoord.site)
 
